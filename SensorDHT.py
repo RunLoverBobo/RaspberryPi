@@ -1,32 +1,37 @@
 
 import RPi.GPIO as gpio
 import time
+import threading
+import sensorData 
 
-class SensorDHT():
+
+class SensorDHT:    
 
     def __init__(self):
-        PORT=7
+        self.PORT=7
         gpio.setwarnings(False)
         gpio.setmode(gpio.BOARD)
         time.sleep(1)
+        t=threading.Thread(target=self.getConData,args=())
+        t.start()
 
-    def getData(self):
+    def getOneData(self):
         data=[]
-        gpio.setup(PORT,gpio.OUT)    
-        gpio.output(PORT,gpio.LOW)
+        gpio.setup(self.PORT,gpio.OUT)    
+        gpio.output(self.PORT,gpio.LOW)
         time.sleep(0.02)
-        gpio.output(PORT,gpio.HIGH)
+        gpio.output(self.PORT,gpio.HIGH)
 
         #wait to response
-        gpio.setup(PORT,gpio.IN)
+        gpio.setup(self.PORT,gpio.IN)
 
-        while gpio.input(PORT)==1:
+        while gpio.input(self.PORT)==1:
             continue
 
-        while gpio.input(PORT)==0:
+        while gpio.input(self.PORT)==0:
             continue
 
-        while gpio.input(PORT)==1:
+        while gpio.input(self.PORT)==1:
             continue
 
         #get data
@@ -34,10 +39,10 @@ class SensorDHT():
 
         while j<40:
             k=0
-            while gpio.input(PORT)==0:
+            while gpio.input(self.PORT)==0:
                 continue
 
-            while gpio.input(PORT)==1:
+            while gpio.input(self.PORT)==1:
                 k+=1
                 if k>100:
                     break
@@ -69,11 +74,28 @@ class SensorDHT():
             check+=check_bit[i]*2**(7-i)
 
         tmp=humidity+humidity_point+temperature+temperature_point
+
+        time.sleep(1)        
         
-        if check==tmp:
-            curTime=time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
-            print curTime,"wendu",temperature,"shidu",humidity
-            return temperature,humidity
+        if check==tmp:            
+            return ('%d'%temperature,'%d'%humidity)
+        else:
+            return ("err","err")
+
+    def getConData(self):        
+        while True:            
+            sensorData.temperature,sensorData.humidity=self.getOneData()
+            
+            
+            
+
+        
+        
+
+        
+
+        
+        
         
 
         
