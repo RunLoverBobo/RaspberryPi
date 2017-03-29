@@ -4,12 +4,9 @@
 import socket;
 import time;
 import threading;
-import thread
-import RPi.GPIO as GPIO
-import sensorData 
+import SensorData 
 
-class Sender:   
-
+class Sender: 
     #初始化socket
     def __init__(self):
         HOST=''
@@ -22,17 +19,20 @@ class Sender:
         
         while True:
             clientSock,addr=self.sock.accept()
-            t=threading.Thread(target=self.sendData,args=(clientSock,addr))
-            t.start()
-                
-    #连接客户端，启动发送数据线程
+            threading.Thread(target=self.sendData,args=(clientSock,addr)).start()
+                            
+    #连接客户端，启动发送数据线程,每秒发送一次数据
     def sendData(self,sock,addr):        
         try:
             while True:
-                print("senddata")
-                time.sleep(1)                
-                sock.send(sensorData.temperature+"-"
-                          +sensorData.humidity+"\n")
+                time.sleep(1)
+                dataToAndroid="<time>0</time>"+\
+                               "<temperature>"+SensorData.temperature+"</temperature>"+\
+                               "<humidity>"+SensorData.humidity+"</humidity>"+"\n";
+                sock.send(dataToAndroid)
+                #sock.send(SensorData.temperature+"-"
+                #          +SensorData.humidity+"\n")
+                print(dataToAndroid)
         except:           
                 sock.close()
                 

@@ -1,19 +1,18 @@
+#coding:utf-8
 
 import RPi.GPIO as gpio
 import time
 import threading
-import sensorData 
-
+import SensorData 
 
 class SensorDHT:    
-
     def __init__(self):
         self.PORT=7
         gpio.setwarnings(False)
         gpio.setmode(gpio.BOARD)
         time.sleep(1)
-        t=threading.Thread(target=self.getConData,args=())
-        t.start()
+        threading.Thread(target=self.getConData,args=()).start()
+        #t.start()
 
     def getOneData(self):
         data=[]
@@ -84,8 +83,8 @@ class SensorDHT:
 
     def getConData(self):        
         while True:            
-            sensorData.temperature,sensorData.humidity=self.getOneData()
-            
+            SensorData.temperature,SensorData.humidity=self.getOneData()
+      
             
             
 
