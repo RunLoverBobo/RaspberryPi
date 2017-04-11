@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #coding:utf-8
+#20170411
 
 from SensorDHT import *
 from Sender import *
