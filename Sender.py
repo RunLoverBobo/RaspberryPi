@@ -4,7 +4,23 @@
 import socket;
 import time;
 import threading;
-import SensorData 
+import SensorData
+
+class SendMessageThread(threading.Thread):
+    def __init__(self,clientSock):
+        threading.Thread.__init__(self)
+        self.clientSock=clientSock
+
+    def run(self):
+        while True:
+            curTime=time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
+            dataToAndroid="<time>"+curTime+"</time>"+\
+                         "<temperature>"+SensorData.temperature+"</temperature>"+\
+                         "<humidity>"+SensorData.humidity+"</humidity>"+"\n";
+            print(dataToAndroid)
+            self.clientSock.send(dataToAndroid.encode())
+            time.sleep(2)
+        self.clientSock.close()
 
 class Sender: 
     #初始化socket
@@ -16,25 +32,17 @@ class Sender:
         self.sock.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)
         self.sock.bind(ADDR)
         self.sock.listen(5)
-        
-        while True:
-            clientSock,addr=self.sock.accept()
-            threading.Thread(target=self.sendData,args=(clientSock,addr)).start()
-                            
-    #连接客户端，启动发送数据线程,每秒发送一次数据
-    def sendData(self,sock,addr):        
+
         try:
             while True:
-                time.sleep(1)
-                dataToAndroid="<time>0</time>"+\
-                               "<temperature>"+SensorData.temperature+"</temperature>"+\
-                               "<humidity>"+SensorData.humidity+"</humidity>"+"\n";
-                sock.send(dataToAndroid)
-                #sock.send(SensorData.temperature+"-"
-                #          +SensorData.humidity+"\n")
-                print(dataToAndroid)
-        except:           
-                sock.close()
+                clientSock,addr=self.sock.accept()
+                sendMsgThread=SendMessageThread(clientSock)
+                sendMsgThread.start()
+        except:
+            print("unable to start thread")
+
+        sock.close()
+                
                 
         
             

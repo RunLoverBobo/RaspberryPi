@@ -12,9 +12,9 @@ class SensorDHT:
         gpio.setmode(gpio.BOARD)
         time.sleep(1)
         threading.Thread(target=self.getConData,args=()).start()
-        #t.start()
 
     def getOneData(self):
+        self.PORT=7
         data=[]
         gpio.setup(self.PORT,gpio.OUT)    
         gpio.output(self.PORT,gpio.LOW)
@@ -73,8 +73,6 @@ class SensorDHT:
             check+=check_bit[i]*2**(7-i)
 
         tmp=humidity+humidity_point+temperature+temperature_point
-
-        time.sleep(1)        
         
         if check==tmp:            
             return ('%d'%temperature,'%d'%humidity)
@@ -84,6 +82,8 @@ class SensorDHT:
     def getConData(self):        
         while True:            
             SensorData.temperature,SensorData.humidity=self.getOneData()
+            time.sleep(1)
+
       
             
             

@@ -5,10 +5,10 @@
 from SensorDHT import *
 from Sender import *
 import threading
-import Queue
 
 #初始化DHT11
 sensor=SensorDHT()
+#sensor.getConData()
 
 #初始化Android信息服务
 sender=Sender()

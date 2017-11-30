@@ -73,6 +73,6 @@ while True:
     
     if check==tmp:
         curTime=time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
-        print curTime,"wendu",temperature,"shidu",humidity
+        print (curTime,"wendu",temperature,"shidu",humidity)
 
     time.sleep(1)
