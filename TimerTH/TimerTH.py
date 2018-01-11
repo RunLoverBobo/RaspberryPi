@@ -15,6 +15,8 @@ A=DhtTem()
 lastT=0
 lastH=0
 
+#文件设置
+
 while True:
     for i in range(5):
         tm.show_clock()        
@@ -25,6 +27,10 @@ while True:
         curT=lastT
     lastT=curT
     tm.show_num(curT,'T')
+    #写温度数据
+    file=open('data.txt','w')
+    file.write(str(curT))
+    file.close()
     sleep(1)
 
     #如本次湿度数据无效，则显示上一帧数据
@@ -33,5 +39,9 @@ while True:
         curH=lastH
     lastH=curH
     tm.show_num(curH,'H')
+    #写湿度数据
+    file=open('data.txt','a')
+    file.write(" "+str(curH))
+    file.close()
     sleep(1)
 

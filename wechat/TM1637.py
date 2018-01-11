@@ -133,10 +133,10 @@ class TM1637:
         self.set_segments([d0, d1, d2, d3])
 
     def show_digit(self,num):
-        d0=self.digit_to_segment[num//1000]
-        d1=self.digit_to_segment[num//100]
-        d2=self.digit_to_segment[num//10]
-        d3=self.digit_to_segment[num%10]
+        d0=0b0000000
+        d1=0b0000000
+        d2 = self.digit_to_segment[num // 10]
+        d3 = self.digit_to_segment[num % 10]
         self.set_segments([d0, d1, d2, d3])
         sleep(2)
 
