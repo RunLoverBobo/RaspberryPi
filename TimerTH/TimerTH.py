@@ -4,6 +4,8 @@
 from TM1637 import TM1637
 from DhtTH import DhtTem
 from time import sleep
+import sqlite3
+import datetime
 
 #TM1637管脚设定
 CLK = 23
@@ -27,10 +29,6 @@ while True:
         curT=lastT
     lastT=curT
     tm.show_num(curT,'T')
-    #写温度数据
-    file=open('data.txt','w')
-    file.write(str(curT))
-    file.close()
     sleep(1)
 
     #如本次湿度数据无效，则显示上一帧数据
@@ -39,9 +37,21 @@ while True:
         curH=lastH
     lastH=curH
     tm.show_num(curH,'H')
-    #写湿度数据
-    file=open('data.txt','a')
-    file.write(" "+str(curH))
-    file.close()
     sleep(1)
+
+    #写数据库
+    conn=sqlite3.connect('/home/pi/github/RaspberryPi/Sqlite/test.db')
+    c=conn.cursor()
+
+    curTime=datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    print(curTime)
+
+    c.execute("INSERT INTO DATA (TIME,T,H) VALUES ('"+curTime+"', '"+str(curT)+"', '"+str(curH)+"')");
+
+    conn.commit()
+    conn.close()
+
+
+    
+
 
