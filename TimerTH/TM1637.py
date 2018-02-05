@@ -112,6 +112,12 @@ class TM1637:
 
     def show_clock(self):        
         t = localtime()
+        #夜间调低亮度
+        if(localtime().tm_hour<7 or localtime().tm_hour>22):
+            self.brightness = 0x0a
+        else:
+            self.brightness = 0x0f
+            
         sleep(1 - time() % 1)
         d0 = self.digit_to_segment[t.tm_hour // 10] if t.tm_hour // 10 else 0
         d1 = self.digit_to_segment[t.tm_hour % 10]

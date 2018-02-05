@@ -1,0 +1,5 @@
+[Desktop Entry]
+name=ngrok
+comment=ngrok
+Exec=/home/pi/github/RaspberryPi/ngrok/bobongrok.sh
+Type=Application

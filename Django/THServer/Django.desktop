@@ -1,0 +1,9 @@
+[Desktop Entry]
+name=Django
+comment=Django
+Exec=python /home/pi/github/RaspberryPi/Django/THServer/manage.py runserver 0.0.0.0:8080
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=application;development;
+StartupNotify=true

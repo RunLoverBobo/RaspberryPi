@@ -1,0 +1,1574 @@
+[2018-02-01 04:32:23,076] [INFO] wechat_main
+[2018-02-01 04:32:23,081] [INFO] ['ff', 'text', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'gh_11f8c0c30980']
+[2018-02-01 04:32:23,083] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'ff']
+[2018-02-01 04:32:23,084] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517459543</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[ff]]></Content>
+        </xml>
+        
+[2018-02-01 04:32:23,086] [INFO] ['before httpResponse', '\n        <xml>\n        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n        <CreateTime>1517459543</CreateTime>\n        <MsgType><![CDATA[text]]></MsgType>\n        <Content><![CDATA[ff]]></Content>\n        </xml>\n        ']
+[2018-02-01 04:32:23,087] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517459543</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[ff]]></Content>
+        </xml>
+        
+[2018-02-01 06:18:10,794] [INFO] wechat_main
+[2018-02-01 06:18:10,796] [INFO] ['g', 'text', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'gh_11f8c0c30980']
+[2018-02-01 06:18:10,797] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'g']
+[2018-02-01 06:18:10,798] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517465890</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[g]]></Content>
+        </xml>
+        
+[2018-02-01 06:18:10,799] [INFO] ['before httpResponse', '\n        <xml>\n        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n        <CreateTime>1517465890</CreateTime>\n        <MsgType><![CDATA[text]]></MsgType>\n        <Content><![CDATA[g]]></Content>\n        </xml>\n        ']
+[2018-02-01 06:18:10,800] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517465890</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[g]]></Content>
+        </xml>
+        
+[2018-02-01 08:52:43,652] [INFO] wechat_main
+[2018-02-01 08:52:43,654] [INFO] ['hehehr', 'text', 'otGlH1Cf6pWKEIIzac82UvL-3Jsc', 'gh_11f8c0c30980']
+[2018-02-01 08:52:43,655] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1Cf6pWKEIIzac82UvL-3Jsc', 'hehehr']
+[2018-02-01 08:52:43,656] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>
+        <CreateTime>1517475163</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hehehr]]></Content>
+        </xml>
+        
+[2018-02-01 08:52:43,656] [INFO] ['before httpResponse', '\n        <xml>\n        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n        <FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n        <CreateTime>1517475163</CreateTime>\n        <MsgType><![CDATA[text]]></MsgType>\n        <Content><![CDATA[hehehr]]></Content>\n        </xml>\n        ']
+[2018-02-01 08:52:43,657] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>
+        <CreateTime>1517475163</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hehehr]]></Content>
+        </xml>
+        
+[2018-02-01 08:52:43,709] [INFO] wechat_main
+[2018-02-01 08:52:43,712] [INFO] ['hehehr', 'text', 'otGlH1Cf6pWKEIIzac82UvL-3Jsc', 'gh_11f8c0c30980']
+[2018-02-01 08:52:43,713] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1Cf6pWKEIIzac82UvL-3Jsc', 'hehehr']
+[2018-02-01 08:52:43,714] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>
+        <CreateTime>1517475163</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hehehr]]></Content>
+        </xml>
+        
+[2018-02-01 08:52:43,715] [INFO] ['before httpResponse', '\n        <xml>\n        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n        <FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n        <CreateTime>1517475163</CreateTime>\n        <MsgType><![CDATA[text]]></MsgType>\n        <Content><![CDATA[hehehr]]></Content>\n        </xml>\n        ']
+[2018-02-01 08:52:43,716] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>
+        <CreateTime>1517475163</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hehehr]]></Content>
+        </xml>
+        
+[2018-02-01 11:15:13,543] [INFO] wechat_main
+[2018-02-01 11:15:13,545] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517483708</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[fyh]]></Content>\n<MsgId>6517542898493292399</MsgId>\n</xml>'
+[2018-02-01 11:15:13,547] [INFO] ['fyh', 'text', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'gh_11f8c0c30980']
+[2018-02-01 11:15:13,548] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'fyh']
+[2018-02-01 11:15:13,549] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517483713</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[fyh]]></Content>
+        </xml>
+        
+[2018-02-01 11:15:13,550] [INFO] ['before httpResponse', '\n        <xml>\n        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n        <CreateTime>1517483713</CreateTime>\n        <MsgType><![CDATA[text]]></MsgType>\n        <Content><![CDATA[fyh]]></Content>\n        </xml>\n        ']
+[2018-02-01 11:15:13,550] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517483713</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[fyh]]></Content>
+        </xml>
+        
+[2018-02-01 11:18:16,193] [INFO] wechat_main
+[2018-02-01 11:18:16,243] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517483892</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[ghfg]]></Content>\n<MsgId>6517543688767274930</MsgId>\n</xml>'
+[2018-02-01 11:18:16,246] [INFO] ['ghfg', 'text', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'gh_11f8c0c30980', '1517483892']
+[2018-02-01 11:18:16,248] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'ghfg']
+[2018-02-01 11:18:16,250] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517483896</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[ghfg]]></Content>
+        </xml>
+        
+[2018-02-01 11:18:16,254] [INFO] ['before httpResponse', '\n        <xml>\n        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n        <CreateTime>1517483896</CreateTime>\n        <MsgType><![CDATA[text]]></MsgType>\n        <Content><![CDATA[ghfg]]></Content>\n        </xml>\n        ']
+[2018-02-01 11:18:16,258] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517483896</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[ghfg]]></Content>
+        </xml>
+        
+[2018-02-01 11:21:48,197] [INFO] wechat_main
+[2018-02-01 11:21:48,199] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517484103</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[sdg]]></Content>\n<MsgId>6517544595005374420</MsgId>\n</xml>'
+[2018-02-01 11:21:48,217] [INFO] ['sdg', 'text', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'gh_11f8c0c30980', '1517484103']
+[2018-02-01 11:21:48,219] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'sdg']
+[2018-02-01 11:21:48,220] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517484103</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[sdg]]></Content>
+        </xml>
+        
+[2018-02-01 11:21:48,221] [INFO] ['before httpResponse', '\n        <xml>\n        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n        <CreateTime>1517484103</CreateTime>\n        <MsgType><![CDATA[text]]></MsgType>\n        <Content><![CDATA[sdg]]></Content>\n        </xml>\n        ']
+[2018-02-01 11:21:48,223] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>
+        <FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>
+        <CreateTime>1517484103</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[sdg]]></Content>
+        </xml>
+        
+[2018-02-01 11:29:11,959] [INFO] wechat_main
+[2018-02-01 11:29:11,960] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517484548</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[ffg]]></Content>\n<MsgId>6517546506265821206</MsgId>\n</xml>'
+[2018-02-01 11:29:11,962] [INFO] ['ffg', 'text', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'gh_11f8c0c30980', '1517484548']
+[2018-02-01 11:29:11,963] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'ffg']
+[2018-02-01 11:29:11,963] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517484548</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[ffg]]></Content>
+        </xml>
+        
+[2018-02-01 11:29:11,966] [INFO] ['before httpResponse', '\n        <xml>\n        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>\n        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>\n        <CreateTime>1517484548</CreateTime>\n        <MsgType><![CDATA[text]]></MsgType>\n        <Content><![CDATA[ffg]]></Content>\n        </xml>\n        ']
+[2018-02-01 11:29:11,966] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517484548</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[ffg]]></Content>
+        </xml>
+        
+[2018-02-01 11:33:56,987] [INFO] wechat_main
+[2018-02-01 11:33:56,988] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517484827</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[hshshs]]></Content>\n<MsgId>6517547704561696842</MsgId>\n</xml>'
+[2018-02-01 11:33:56,991] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'hshshs']
+[2018-02-01 11:33:56,992] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517484836</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hshshs]]></Content>
+        </xml>
+        
+[2018-02-01 11:33:57,178] [INFO] wechat_main
+[2018-02-01 11:33:57,179] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517484827</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[hshshs]]></Content>\n<MsgId>6517547704561696842</MsgId>\n</xml>'
+[2018-02-01 11:33:57,181] [INFO] ['TextMsg', 'gh_11f8c0c30980', 'otGlH1AQ7ZYEUDK0EJ6TY9YbENik', 'hshshs']
+[2018-02-01 11:33:57,182] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517484837</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hshshs]]></Content>
+        </xml>
+        
+[2018-02-01 11:35:46,747] [INFO] wechat_main
+[2018-02-01 11:35:46,749] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517484943</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[dhgfg]]></Content>\n<MsgId>6517548202777903197</MsgId>\n</xml>'
+[2018-02-01 11:35:46,751] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517484946</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[dhgfg]]></Content>
+        </xml>
+        
+[2018-02-01 11:36:35,476] [INFO] wechat_main
+[2018-02-01 11:36:35,477] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517484991</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe9\x98\xb2\xe5\xaf\x92\xe6\x9c\x8d\xe7\x99\xbe\xe5\xba\xa6\xe7\xbb\x8f\xe9\xaa\x8c\xe4\xb8\xb0\xe5\xaf\x8c\xe5\xa4\xa9bjfhf]]></Content>\n<MsgId>6517548408936333423</MsgId>\n</xml>'
+[2018-02-01 11:39:06,811] [INFO] wechat_main
+[2018-02-01 11:39:06,813] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517485141</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\x8c\x82\xe5\x8f\xb7\xe8\xb4\xb9gbxgjgcdhkjfghkgffnjbnlvgblhcgvvmjvvhbkgffgkvfvkydvjvfcfbobffnjndvkncbjvfbkhyhmkhfdhdfbfgkctvxjkkhfxbmkjvxdthkifdvnlgfdxhkhddfckgxmgtvjkgdrrckgdvnngfhhhfcjgxbjfcyldkfgvhkmhfsgjjfdhvxkydjkkjhbdugffcgjjjjjhjjgggbvvbbbmnbvbhvvbvbbbvbvvccdghvccjxlgdgjkljghducmchfgkdvbjkfjggbjjjjklkgdnt\xe6\x84\xa4\xe6\x80\x92\xe7\x9a\x84 v \xe7\x9c\x8b\xe4\xb8\x9c\xe8\xa5\xbf\xe4\xbd\xa0\xe5\xb0\xb1\xe7\xad\x89\xe7\x9d\x80\xe7\x9c\x8b\xe4\xbb\x96\xe7\x9a\x84\xe7\x99\xbd\xe8\xa1\xac\xe8\xa1\xab\xe7\xae\x80\xe5\x8d\x95\xe4\xbb\x85\xe4\xbe\x9b\xe5\x8f\x82\xe8\x80\x83\xe7\xbf\xbb\xe7\x82\x92\xe5\x87\xa0\xe5\x88\x86\xe9\x92\x9f\xe7\xbb\x99\xe4\xbb\x96\xe5\x8f\x91\xe8\xa7\x89\xe5\xa5\xbd\xe5\xa4\x9a\xe6\xac\xa1\xe7\x9c\x8b\xe5\x9b\x9e\xe6\x94\xbenkhfjgkgddnhdh]]></Content>\n<MsgId>6517549053181427845</MsgId>\n</xml>'
+[2018-02-01 11:39:11,978] [INFO] wechat_main
+[2018-02-01 11:39:11,982] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517485141</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\x8c\x82\xe5\x8f\xb7\xe8\xb4\xb9gbxgjgcdhkjfghkgffnjbnlvgblhcgvvmjvvhbkgffgkvfvkydvjvfcfbobffnjndvkncbjvfbkhyhmkhfdhdfbfgkctvxjkkhfxbmkjvxdthkifdvnlgfdxhkhddfckgxmgtvjkgdrrckgdvnngfhhhfcjgxbjfcyldkfgvhkmhfsgjjfdhvxkydjkkjhbdugffcgjjjjjhjjgggbvvbbbmnbvbhvvbvbbbvbvvccdghvccjxlgdgjkljghducmchfgkdvbjkfjggbjjjjklkgdnt\xe6\x84\xa4\xe6\x80\x92\xe7\x9a\x84 v \xe7\x9c\x8b\xe4\xb8\x9c\xe8\xa5\xbf\xe4\xbd\xa0\xe5\xb0\xb1\xe7\xad\x89\xe7\x9d\x80\xe7\x9c\x8b\xe4\xbb\x96\xe7\x9a\x84\xe7\x99\xbd\xe8\xa1\xac\xe8\xa1\xab\xe7\xae\x80\xe5\x8d\x95\xe4\xbb\x85\xe4\xbe\x9b\xe5\x8f\x82\xe8\x80\x83\xe7\xbf\xbb\xe7\x82\x92\xe5\x87\xa0\xe5\x88\x86\xe9\x92\x9f\xe7\xbb\x99\xe4\xbb\x96\xe5\x8f\x91\xe8\xa7\x89\xe5\xa5\xbd\xe5\xa4\x9a\xe6\xac\xa1\xe7\x9c\x8b\xe5\x9b\x9e\xe6\x94\xbenkhfjgkgddnhdh]]></Content>\n<MsgId>6517549053181427845</MsgId>\n</xml>'
+[2018-02-01 11:39:12,025] [INFO] wechat_main
+[2018-02-01 11:39:12,026] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517485141</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\x8c\x82\xe5\x8f\xb7\xe8\xb4\xb9gbxgjgcdhkjfghkgffnjbnlvgblhcgvvmjvvhbkgffgkvfvkydvjvfcfbobffnjndvkncbjvfbkhyhmkhfdhdfbfgkctvxjkkhfxbmkjvxdthkifdvnlgfdxhkhddfckgxmgtvjkgdrrckgdvnngfhhhfcjgxbjfcyldkfgvhkmhfsgjjfdhvxkydjkkjhbdugffcgjjjjjhjjgggbvvbbbmnbvbhvvbvbbbvbvvccdghvccjxlgdgjkljghducmchfgkdvbjkfjggbjjjjklkgdnt\xe6\x84\xa4\xe6\x80\x92\xe7\x9a\x84 v \xe7\x9c\x8b\xe4\xb8\x9c\xe8\xa5\xbf\xe4\xbd\xa0\xe5\xb0\xb1\xe7\xad\x89\xe7\x9d\x80\xe7\x9c\x8b\xe4\xbb\x96\xe7\x9a\x84\xe7\x99\xbd\xe8\xa1\xac\xe8\xa1\xab\xe7\xae\x80\xe5\x8d\x95\xe4\xbb\x85\xe4\xbe\x9b\xe5\x8f\x82\xe8\x80\x83\xe7\xbf\xbb\xe7\x82\x92\xe5\x87\xa0\xe5\x88\x86\xe9\x92\x9f\xe7\xbb\x99\xe4\xbb\x96\xe5\x8f\x91\xe8\xa7\x89\xe5\xa5\xbd\xe5\xa4\x9a\xe6\xac\xa1\xe7\x9c\x8b\xe5\x9b\x9e\xe6\x94\xbenkhfjgkgddnhdh]]></Content>\n<MsgId>6517549053181427845</MsgId>\n</xml>'
+[2018-02-01 11:41:38,700] [INFO] wechat_main
+[2018-02-01 11:41:38,701] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517485297</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xf0\x9f\xa7\xa3\xf0\x9f\xa7\xa3\xf0\x9f\x92\x84\xf0\x9f\xa4\x91\xf0\x9f\x95\x9b\xf0\x9f\x95\x92\xf0\x9f\x90\xb7\xf0\x9f\x98\xa6\xf0\x9f\xa4\xa4\xf0\x9f\xa4\xa4\xf0\x9f\x98\xb8\xf0\x9f\x98\xba\xf0\x9f\x8e\x83\xf0\x9f\x98\xb8\xf0\x9f\x98\xb8\xf0\x9f\x98\xb9\xf0\x9f\x98\xb9\xf0\x9f\x98\xb9\xf0\x9f\x99\x80\xf0\x9f\x98\xbd\xf0\x9f\x98\xbf\xf0\x9f\x98\xba\xf0\x9f\xa4\x9a\xf0\x9f\x8f\xbc\xf0\x9f\x92\x84\xf0\x9f\x92\x84\xf0\x9f\x91\x84\xf0\x9f\x91\x82\xf0\x9f\x92\x84\xf0\x9f\x92\x82\xf0\x9f\x8f\xbd\xe2\x80\x8d\xe2\x99\x82\xef\xb8\x8f\xf0\x9f\x91\x91\xf0\x9f\x99\x89\xf0\x9f\x99\x89\xf0\x9f\x90\xbc\xf0\x9f\x90\xbd\xf0\x9f\x90\xa7\xf0\x9f\x90\xbd\xf0\x9f\x90\xa6\xf0\x9f\x90\xbd\xf0\x9f\x90\x97\xf0\x9f\x90\xa4\xf0\x9f\x90\xb4\xf0\x9f\xa6\x8e\xf0\x9f\xa6\x89\xf0\x9f\x95\xb7\xf0\x9f\xa6\x97\xf0\x9f\x90\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb3\xf0\x9f\x8c\xb3\xf0\x9f\x8c\xb3\xf0\x9f\x8c\xb3\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8e\x8d\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x8c\xb4\xf0\x9f\x90\x81\xe4\xb8\x80\xe5\x92\x8c\xe8\xbf\x99\xe5\x92\x8cdxhxbhzklxlxjckckxjxjxjxkckckfkxhxncjcjfbdjdnxjxjjxbdhndbxjdnchflhfihrnhcmhdnxuvchdurnnxmkxhtdbmxmxjgxjrhfgugbxmpcnxuxigkphciofbckckkexbbxkidvxbxjozbxnxnxmpbnxnzvznlxxnzmzmzzmzmzmzmzmzmzmzmmmzmzmzmzlmnjjjjjjhhjhj]]></Content>\n<MsgId>6517549723196326058</MsgId>\n</xml>'
+[2018-02-01 11:50:01,382] [INFO] wechat_main
+[2018-02-01 11:50:01,383] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517485796</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[kjn]]></Content>\n<MsgId>6517551866385006849</MsgId>\n</xml>'
+[2018-02-01 11:50:01,385] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 54, in wechat_main
+    replyMsg=TextMsg(toUser,fromUser,replyContent,createTime)
+NameError: name 'replyContent' is not defined
+[2018-02-01 11:50:01,974] [INFO] wechat_main
+[2018-02-01 11:50:01,976] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517485796</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[kjn]]></Content>\n<MsgId>6517551866385006849</MsgId>\n</xml>'
+[2018-02-01 11:50:01,978] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 54, in wechat_main
+    replyMsg=TextMsg(toUser,fromUser,replyContent,createTime)
+NameError: name 'replyContent' is not defined
+[2018-02-01 11:50:43,594] [INFO] wechat_main
+[2018-02-01 11:50:43,595] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517485839</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[njken]]></Content>\n<MsgId>6517552051068600581</MsgId>\n</xml>'
+[2018-02-01 11:50:43,597] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517485843</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[njken]]></Content>
+        </xml>
+        
+[2018-02-01 11:52:25,592] [INFO] wechat_main
+[2018-02-01 11:52:25,594] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517485944</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[ 151293359163367524156985214799588488864 54087945565 085665505834940504565658405546494970767976764879580554.556867678768.34879794994 99464:549787 845764848-846 78.594949078/649979.995648\xc2\xa5964848-549494964545,6466164949:949946519:994984 759.92655.5758466-64945 .976464 468-64655595545595844985807842109/885845510\xe2\x88\x92\xe5\xa6\x88\xe5\xa6\x88548488448464-64649548549469454864984587096787840446-518 845\xe7\x88\xb8\xe7\x88\xb854848684\xe5\xa6\x88\xe5\xa6\x8887878757851857648481054649485161648554679.8515194 4531649\xe4\xbd\x99\xe4\xba\xba\xe5\x92\xaf\xe7\x8b\x97\xe7\x8b\x97\xe5\x92\xaf\xe6\xb7\x85\xe6\xb7\x85\xe6\xb2\xa5\xe6\xb2\xa5\xef\xbc\x8c\xe7\x88\xb8\xe3\x80\x82\xe6\x8f\x90\xe4\xbe\x9b\xe5\xa5\x96\xe5\xad\xa6\xe9\x87\x91\xef\xbc\x8c\xe5\xbb\xba\xe5\x86\x9b\xef\xbc\x8c\xe5\xa6\x88\xef\xbc\x8c\xe8\xaf\xad\xef\xbc\x8c\xe8\xbf\xbdOK\xef\xbc\x8ctiglongniyimingjrjxingwo\xf0\x9f\x8c\x94\xf0\x9f\x8c\x92\xf0\x9f\x8c\x93\xf0\x9f\x8c\x91\xf0\x9f\x8c\x98\xf0\x9f\x8c\x97\xf0\x9f\x8c\x96\xf0\x9f\x8c\x95\xe2\x9b\x84\xef\xb8\x8f\xf0\x9f\x8c\xa5\xe2\x9b\x88\xf0\x9f\x8c\xa7\xe2\x9b\x84\xef\xb8\x8f\xf0\x9f\x8c\xa7\xf0\x9f\x8c\xa9\xe2\x98\x94\xef\xb8\x8f\xe2\x9b\x85\xef\xb8\x8f\xf0\x9f\x8d\x91\xf0\x9f\x8d\x8a\xf0\x9f\x8d\x8f\xf0\x9f\x8d\x91\xf0\x9f\x8d\x96\xf0\x9f\x8d\xa0\xf0\x9f\xa5\xab\xf0\x9f\x8c\xad\xf0\x9f\x8d\x95\xf0\x9f\xa5\x96\xf0\x9f\x8d\x96\xf0\x9f\xa5\xaa\xf0\x9f\x8c\xad\xf0\x9f\xa5\x94\xf0\x9f\x8d\x9a\xf0\x9f\x8d\xab\xe2\x98\x95\xef\xb8\x8f\xf0\x9f\x8c\xb0\xf0\x9f\x8e\x82\xf0\x9f\xa5\x9c\xf0\x9f\xa5\x9c\xf0\x9f\x8d\xb0\xf0\x9f\x8d\xa1\xf0\x9f\x8d\xac\xf0\x9f\x8c\xb0\xe2\x98\x95\xef\xb8\x8f\xf0\x9f\x8d\xab\xf0\x9f\x8d\xa1\xf0\x9f\x8d\xab\xf0\x9f\xa5\x82\xf0\x9f\x8d\xbb\xf0\x9f\x8d\xbb\xf0\x9f\x8d\xb5\xf0\x9f\x8f\x91\xf0\x9f\x8e\xb1\xf0\x9f\x8e\xb1\xf0\x9f\x8f\x88\xf0\x9f\x8f\x92\xf0\x9f\x8f\x89\xf0\x9f\xa5\x8a\xf0\x9f\x8f\x8b\xf0\x9f\x8f\xbe\xe2\x80\x8d\xe2\x99\x82\xef\xb8\x8f\xf0\x9f\x9a\xa8\xf0\x9f\x9a\x93\xf0\x9f\x8f\x8d\xf0\x9f\x9a\x93\xf0\x9f\x8f\x8d\xf0\x9f\x9a\x9b\xf0\x9f\x9b\xab\xf0\x9f\x9a\x9e\xf0\x9f\x9a\x82\xf0\x9f\x9a\x96\xf0\x9f\x9a\x82\xf0\x9f\x9a\x96\xf0\x9f\x9a\x8b\xf0\x9f\x9b\xb6\xf0\x9f\x9a\xa6\xf0\x9f\x9b\xb6\xf0\x9f\x8c\x89\xf0\x9f\x8e\x86\xf0\x9f\x8e\x86\xf0\x9f\x93\x9e\xf0\x9f\x96\xa8\xf0\x9f\x93\xba\xf0\x9f\x96\xa8\xf0\x9f\x92\xb4\xf0\x9f\x94\xa6\xe2\x9a\x92\xf0\x9f\x95\xaf\xe2\x9b\x93\xf0\x9f\x94\xa6\xe2\x9a\x92\xf0\x9f\x92\xb8\xe2\x9b\x8f\xf0\x9f\x92\xb3\xf0\x9f\x8f\xba\xf0\x9f\x94\xac\xf0\x9f\x9b\x81\xf0\x9f\x9b\x81\xf0\x9f\x92\x89\xf0\x9f\x92\x89\xf0\x9f\x92\x89\xf0\x9f\x8e\x8a\xf0\x9f\x93\x88\xf0\x9f\x93\x88\xf0\x9f\x93\x92\xf0\x9f\x93\x817\xef\xb8\x8f\xe2\x83\xa3\xe2\x8f\xb9#\xef\xb8\x8f\xe2\x83\xa32\xef\xb8\x8f\xe2\x83\xa3\xf0\x9f\x86\x997\xef\xb8\x8f\xe2\x83\xa3\xe2\x86\x99\xef\xb8\x8f\xf0\x9f\x94\x81\xe2\x86\x96\xef\xb8\x8f\xe2\xac\x86\xef\xb8\x8f\xe2\xa4\xb5\xef\xb8\x8f\xe2\x86\x95\xef\xb8\x8f\xe2\x84\xa2\xef\xb8\x8f\xe2\x9c\x94\xef\xb8\x8f\xe2\x9e\x95\xf0\x9f\x94\x99\xe2\x84\xa2\xef\xb8\x8f\xe2\x84\xa2\xef\xb8\x8f\xf0\x9f\x94\x9b\xe2\x9e\xbf\xf0\x9f\x87\xb3\xf0\x9f\x87\xa8\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xbe\xf0\x9f\x87\xaa\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xba\xf0\x9f\x87\xbf\xf0\x9f\x87\xb8\xf0\x9f\x87\xac\xf0\x9f\x87\xaf\xf0\x9f\x87\xb4\xf0\x9f\x8f\xb4\xf3\xa0\x81\xa7\xf3\xa0\x81\xa2\xf3\xa0\x81\xb3\xf3\xa0\x81\xa3\xf3\xa0\x81\xb4\xf3\xa0\x81\xbf\xf0\x9f\x87\xb3\xf0\x9f\x87\xa8\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xb3\xf0\x9f\x87\xbf\xf0\x9f\x87\xae\xf0\x9f\x87\xa9\xf0\x9f\x8f\xb4\xf3\xa0\x81\xa7\xf3\xa0\x81\xa2\xf3\xa0\x81\xb3\xf3\xa0\x81\xa3\xf3\xa0\x81\xb4\xf3\xa0\x81\xbf\xe2\x9c\x82\xef\xb8\x8f\xf0\x9f\x93\x82\xe2\x9c\x82\xef\xb8\x8f\xf0\x9f\x96\x87\xf0\x9f\x93\x82\xf0\x9f\x93\x89\xf0\x9f\x93\x94\xf0\x9f\x94\x97\xf0\x9f\x93\x8b\xf0\x9f\x93\x93\xf0\x9f\x92\x97\xf0\x9f\x88\xaf\xef\xb8\x8f\xf0\x9f\x9a\xbe\xe2\x8f\xaf\xf0\x9f\x86\x927\xef\xb8\x8f\xe2\x83\xa36\xef\xb8\x8f\xe2\x83\xa3#\xef\xb8\x8f\xe2\x83\xa3\xe2\x9e\x96\xc2\xa9\xef\xb8\x8f\xe2\x9e\x96\xf0\x9f\x94\x9a\xf0\x9f\x94\xb4\xe2\x9a\xab\xef\xb8\x8f\xf0\x9f\x94\xb4\xf0\x9f\x94\x8a\xf0\x9f\x94\x8a\xe2\x97\xbb\xef\xb8\x8f\xf0\x9f\x95\x91\xf0\x9f\x95\x96\xf0\x9f\x95\x9b\xf0\x9f\x95\xa0\xf0\x9f\x95\xa5\xf0\x9f\x95\x92\xf0\x9f\x95\x97\xf0\x9f\x95\x9c\xf0\x9f\x95\xa1\xf0\x9f\x95\xa6\xf0\x9f\x95\x93\xf0\x9f\x95\x98\xf0\x9f\x95\x9d\xf0\x9f\x95\xa2\xf0\x9f\x95\xa7\xf0\x9f\x95\x94\xf0\x9f\x95\x99\xf0\x9f\x95\x9e\xf0\x9f\x95\xa3\xf0\x9f\x95\x90\xf0\x9f\x95\x9a\xf0\x9f\x95\x9a\xf0\x9f\x95\x9f\xe2\x8c\x9a\xef\xb8\x8f\xf0\x9f\x96\xa5\xf0\x9f\x97\x9c\xf0\x9f\x93\xbc\xf0\x9f\x93\xbd\xf0\x9f\x93\xa0\xf0\x9f\x8e\x9b\xe2\x8c\x9b\xef\xb8\x8f\xf0\x9f\x92\xa1\xf0\x9f\x92\xb8\xf0\x9f\x92\xb0\xf0\x9f\x94\xa8\xe2\x9a\x99\xef\xb8\x8f\xf0\x9f\x97\xa1\xe2\x9a\xb1\xef\xb8\x8f\xe2\x9a\x97\xef\xb8\x8f\xf0\x9f\x92\x89\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x80\x8d\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x80\x8d\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x80\x8d\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xef\xb8\x8f\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x87\xf0\x9f\x8f\xbc\xf0\x9f\xa4\xba\xf0\x9f\xa4\xbc\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x80\x8d\xe2\x99\x82\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x87\xf0\x9f\x8f\xbc\xf0\x9f\xa4\xbc\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x84\xf0\x9f\x8f\xbb\xe2\x80\x8d\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x9b\xa3\xe2\x9b\xaa\xef\xb8\x8f\xf0\x9f\x8c\x85\xe2\x9b\xa9\xf0\x9f\x8c\x87\xf0\x9f\x9b\xa4\xf0\x9f\x8c\x85\xf0\x9f\x8e\x86\xf0\x9f\x8f\x9e\xf0\x9f\x8f\x9e\xf0\x9f\x8e\x87\xf0\x9f\x8e\x91\xf0\x9f\x8e\x86\xf0\x9f\x95\x8b\xf0\x9f\x8e\x91\xf0\x9f\x8c\x87\xf0\x9f\x8c\x87\xf0\x9f\x8f\x9e\xe2\x9b\xa9\xf0\x9f\x8c\x8c\xf0\x9f\x8e\x91\xf0\x9f\x8c\x87\xf0\x9f\x8f\x9e\xf0\x9f\x8c\x87\xe2\x9b\xa9\xf0\x9f\x8f\x9e\xf0\x9f\x96\xb1\xf0\x9f\x93\xb2\xf0\x9f\x93\xb2\xf0\x9f\x92\xbd\xf0\x9f\x93\xb1\xf0\x9f\x96\xa8\xf0\x9f\x93\xb1\xf0\x9f\x96\xb1\xf0\x9f\x8c\x8c\xf0\x9f\x93\xb2\xf0\x9f\x8c\x8c\xf0\x9f\x96\xa8\xf0\x9f\x8e\x87\xf0\x9f\x8e\x86\xf0\x9f\x96\xb1\xf0\x9f\x96\xb1\xf0\x9f\x8c\x8c\xf0\x9f\x8c\x89\xf0\x9f\x8e\x87\xf0\x9f\x93\xb2\xf0\x9f\x8c\x83\xf0\x9f\x93\xb2\xf0\x9f\x93\xb1\xf0\x9f\x96\xa8\xf0\x9f\x93\xb1\xf0\x9f\x92\xbb\xe2\x8c\x9a\xef\xb8\x8f\xf0\x9f\x92\xbe\xf0\x9f\x93\xb1\xf0\x9f\x8e\x87\xf0\x9f\x8c\x8c\xe2\x9b\xa9\xf0\x9f\x8c\x8c\xf0\x9f\x8c\x85\xf0\x9f\x8c\x8c\xf0\x9f\x92\xbe\xf0\x9f\x93\xb1\xf0\x9f\x93\xa8\xf0\x9f\x93\x83\xf0\x9f\x8e\x89\xf0\x9f\x93\x9c\xf0\x9f\x93\xa4\xf0\x9f\x9b\x92\xf0\x9f\x9b\x92\xf0\x9f\x93\xa8\xf0\x9f\x8e\x88\xf0\x9f\x8e\x89\xf0\x9f\x9b\x8e\xf0\x9f\x8e\x89\xe2\x9c\x89\xef\xb8\x8f\xf0\x9f\x9b\x8f\xf0\x9f\x92\x8c\xf0\x9f\x9b\x92\xf0\x9f\x8e\x81\xf0\x9f\x9b\x8f\xf0\x9f\x93\xa8\xf0\x9f\x9b\x8f\xf0\x9f\x92\xb3\xf0\x9f\x9b\xa1\xf0\x9f\x9b\xa0\xf0\x9f\x93\xbf\xf0\x9f\x94\xab\xf0\x9f\x94\xab\xf0\x9f\x94\xac\xf0\x9f\x94\xac\xf0\x9f\x94\xab\xf0\x9f\x94\xae\xf0\x9f\x8f\xba\xf0\x9f\x9b\xa1\xf0\x9f\x8f\xba\xe2\x9a\x92\xf0\x9f\x9a\xac\xf0\x9f\x9b\xa1\xf0\x9f\x8f\xba\xf0\x9f\x94\xae\xe2\x9b\x93\xf0\x9f\x94\xac\xe2\x9b\x93\xf0\x9f\x94\xae\xe2\x9b\x93]]></Content>\n<MsgId>6517552502040166679</MsgId>\n</xml>'
+[2018-02-01 11:52:42,687] [INFO] wechat_main
+[2018-02-01 11:52:42,688] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517485960</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[lkkwo]]></Content>\n<MsgId>6517552570759643417</MsgId>\n</xml>'
+[2018-02-01 11:52:42,691] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517485962</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[lkkwo]]></Content>
+        </xml>
+        
+[2018-02-01 11:52:59,549] [INFO] wechat_main
+[2018-02-01 11:52:59,551] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517485975</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517552635184152860</MsgId>\n</xml>'
+[2018-02-01 11:52:59,553] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data.getT()
+TypeError: getT() missing 1 required positional argument: 'self'
+[2018-02-01 11:55:58,156] [INFO] wechat_main
+[2018-02-01 11:55:58,157] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486155</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[  mojj]]></Content>\n<MsgId>6517553408278266185</MsgId>\n</xml>'
+[2018-02-01 11:55:58,159] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517486158</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[  mojj]]></Content>
+        </xml>
+        
+[2018-02-01 11:56:07,415] [INFO] wechat_main
+[2018-02-01 11:56:07,417] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486167</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517553459817873741</MsgId>\n</xml>'
+[2018-02-01 11:56:07,420] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data.getT()
+TypeError: getT() missing 1 required positional argument: 'self'
+[2018-02-01 11:58:00,560] [INFO] wechat_main
+[2018-02-01 11:58:00,561] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486271</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517553906494472545</MsgId>\n</xml>'
+[2018-02-01 11:58:00,563] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data.getT()
+TypeError: getT() missing 1 required positional argument: 'self'
+[2018-02-01 11:58:02,413] [INFO] wechat_main
+[2018-02-01 11:58:02,415] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486271</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517553906494472545</MsgId>\n</xml>'
+[2018-02-01 11:58:02,417] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data.getT()
+TypeError: getT() missing 1 required positional argument: 'self'
+[2018-02-01 11:58:06,782] [INFO] wechat_main
+[2018-02-01 11:58:06,784] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486271</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517553906494472545</MsgId>\n</xml>'
+[2018-02-01 11:58:06,787] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data.getT()
+TypeError: getT() missing 1 required positional argument: 'self'
+[2018-02-01 11:58:39,769] [INFO] wechat_main
+[2018-02-01 11:58:39,771] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517486319</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[  151293359163367524156985214799588488864 54087945565 085665505834940504565658405546494970767976764879580554.556867678768.34879794994 99464:549787 845764848-846 78.594949078/649979.995648\xc2\xa5964848-549494964545,6466164949:949946519:994984 759.92655.5758466-64945 .976464 468-64655595545595844985807842109/885845510\xe2\x88\x92\xe5\xa6\x88\xe5\xa6\x88548488448464-64649548549469454864984587096787840446-518 845\xe7\x88\xb8\xe7\x88\xb854848684\xe5\xa6\x88\xe5\xa6\x8887878757851857648481054649485161648554679.8515194 4531649\xe4\xbd\x99\xe4\xba\xba\xe5\x92\xaf\xe7\x8b\x97\xe7\x8b\x97\xe5\x92\xaf\xe6\xb7\x85\xe6\xb7\x85\xe6\xb2\xa5\xe6\xb2\xa5\xef\xbc\x8c\xe7\x88\xb8\xe3\x80\x82\xe6\x8f\x90\xe4\xbe\x9b\xe5\xa5\x96\xe5\xad\xa6\xe9\x87\x91\xef\xbc\x8c\xe5\xbb\xba\xe5\x86\x9b\xef\xbc\x8c\xe5\xa6\x88\xef\xbc\x8c\xe8\xaf\xad\xef\xbc\x8c\xe8\xbf\xbdOK\xef\xbc\x8ctiglongniyimingjrjxingwo\xf0\x9f\x8c\x94\xf0\x9f\x8c\x92\xf0\x9f\x8c\x93\xf0\x9f\x8c\x91\xf0\x9f\x8c\x98\xf0\x9f\x8c\x97\xf0\x9f\x8c\x96\xf0\x9f\x8c\x95\xe2\x9b\x84\xef\xb8\x8f\xf0\x9f\x8c\xa5\xe2\x9b\x88\xf0\x9f\x8c\xa7\xe2\x9b\x84\xef\xb8\x8f\xf0\x9f\x8c\xa7\xf0\x9f\x8c\xa9\xe2\x98\x94\xef\xb8\x8f\xe2\x9b\x85\xef\xb8\x8f\xf0\x9f\x8d\x91\xf0\x9f\x8d\x8a\xf0\x9f\x8d\x8f\xf0\x9f\x8d\x91\xf0\x9f\x8d\x96\xf0\x9f\x8d\xa0\xf0\x9f\xa5\xab\xf0\x9f\x8c\xad\xf0\x9f\x8d\x95\xf0\x9f\xa5\x96\xf0\x9f\x8d\x96\xf0\x9f\xa5\xaa\xf0\x9f\x8c\xad\xf0\x9f\xa5\x94\xf0\x9f\x8d\x9a\xf0\x9f\x8d\xab\xe2\x98\x95\xef\xb8\x8f\xf0\x9f\x8c\xb0\xf0\x9f\x8e\x82\xf0\x9f\xa5\x9c\xf0\x9f\xa5\x9c\xf0\x9f\x8d\xb0\xf0\x9f\x8d\xa1\xf0\x9f\x8d\xac\xf0\x9f\x8c\xb0\xe2\x98\x95\xef\xb8\x8f\xf0\x9f\x8d\xab\xf0\x9f\x8d\xa1\xf0\x9f\x8d\xab\xf0\x9f\xa5\x82\xf0\x9f\x8d\xbb\xf0\x9f\x8d\xbb\xf0\x9f\x8d\xb5\xf0\x9f\x8f\x91\xf0\x9f\x8e\xb1\xf0\x9f\x8e\xb1\xf0\x9f\x8f\x88\xf0\x9f\x8f\x92\xf0\x9f\x8f\x89\xf0\x9f\xa5\x8a\xf0\x9f\x8f\x8b\xf0\x9f\x8f\xbe\xe2\x99\x82\xef\xb8\x8f\xf0\x9f\x9a\xa8\xf0\x9f\x9a\x93\xf0\x9f\x8f\x8d\xf0\x9f\x9a\x93\xf0\x9f\x8f\x8d\xf0\x9f\x9a\x9b\xf0\x9f\x9b\xab\xf0\x9f\x9a\x9e\xf0\x9f\x9a\x82\xf0\x9f\x9a\x96\xf0\x9f\x9a\x82\xf0\x9f\x9a\x96\xf0\x9f\x9a\x8b\xf0\x9f\x9b\xb6\xf0\x9f\x9a\xa6\xf0\x9f\x9b\xb6\xf0\x9f\x8c\x89\xf0\x9f\x8e\x86\xf0\x9f\x8e\x86\xf0\x9f\x93\x9e\xf0\x9f\x96\xa8\xf0\x9f\x93\xba\xf0\x9f\x96\xa8\xf0\x9f\x92\xb4\xf0\x9f\x94\xa6\xe2\x9a\x92\xf0\x9f\x95\xaf\xe2\x9b\x93\xf0\x9f\x94\xa6\xe2\x9a\x92\xf0\x9f\x92\xb8\xe2\x9b\x8f\xf0\x9f\x92\xb3\xf0\x9f\x8f\xba\xf0\x9f\x94\xac\xf0\x9f\x9b\x81\xf0\x9f\x9b\x81\xf0\x9f\x92\x89\xf0\x9f\x92\x89\xf0\x9f\x92\x89\xf0\x9f\x8e\x8a\xf0\x9f\x93\x88\xf0\x9f\x93\x88\xf0\x9f\x93\x92\xf0\x9f\x93\x817\xef\xb8\x8f\xe2\x83\xa3\xe2\x8f\xb9#\xef\xb8\x8f\xe2\x83\xa32\xef\xb8\x8f\xe2\x83\xa3\xf0\x9f\x86\x997\xef\xb8\x8f\xe2\x83\xa3\xe2\x86\x99\xef\xb8\x8f\xf0\x9f\x94\x81\xe2\x86\x96\xef\xb8\x8f\xe2\xac\x86\xef\xb8\x8f\xe2\xa4\xb5\xef\xb8\x8f\xe2\x86\x95\xef\xb8\x8f\xe2\x84\xa2\xef\xb8\x8f\xe2\x9c\x94\xef\xb8\x8f\xe2\x9e\x95\xf0\x9f\x94\x99\xe2\x84\xa2\xef\xb8\x8f\xe2\x84\xa2\xef\xb8\x8f\xf0\x9f\x94\x9b\xe2\x9e\xbf\xf0\x9f\x87\xb3\xf0\x9f\x87\xa8\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xbe\xf0\x9f\x87\xaa\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xba\xf0\x9f\x87\xbf\xf0\x9f\x87\xb8\xf0\x9f\x87\xac\xf0\x9f\x87\xaf\xf0\x9f\x87\xb4\xf0\x9f\x8f\xb4\xf3\xa0\x81\xa7\xf3\xa0\x81\xa2\xf3\xa0\x81\xb3\xf3\xa0\x81\xa3\xf3\xa0\x81\xb4\xf3\xa0\x81\xbf\xf0\x9f\x87\xb3\xf0\x9f\x87\xa8\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xb3\xf0\x9f\x87\xbf\xf0\x9f\x87\xae\xf0\x9f\x87\xa9\xf0\x9f\x8f\xb4\xf3\xa0\x81\xa7\xf3\xa0\x81\xa2\xf3\xa0\x81\xb3\xf3\xa0\x81\xa3\xf3\xa0\x81\xb4\xf3\xa0\x81\xbf\xe2\x9c\x82\xef\xb8\x8f\xf0\x9f\x93\x82\xe2\x9c\x82\xef\xb8\x8f\xf0\x9f\x96\x87\xf0\x9f\x93\x82\xf0\x9f\x93\x89\xf0\x9f\x93\x94\xf0\x9f\x94\x97\xf0\x9f\x93\x8b\xf0\x9f\x93\x93\xf0\x9f\x92\x97\xf0\x9f\x88\xaf\xef\xb8\x8f\xf0\x9f\x9a\xbe\xe2\x8f\xaf\xf0\x9f\x86\x927\xef\xb8\x8f\xe2\x83\xa36\xef\xb8\x8f\xe2\x83\xa3#\xef\xb8\x8f\xe2\x83\xa3\xe2\x9e\x96\xc2\xa9\xef\xb8\x8f\xe2\x9e\x96\xf0\x9f\x94\x9a\xf0\x9f\x94\xb4\xe2\x9a\xab\xef\xb8\x8f\xf0\x9f\x94\xb4\xf0\x9f\x94\x8a\xf0\x9f\x94\x8a\xe2\x97\xbb\xef\xb8\x8f\xf0\x9f\x95\x91\xf0\x9f\x95\x96\xf0\x9f\x95\x9b\xf0\x9f\x95\xa0\xf0\x9f\x95\xa5\xf0\x9f\x95\x92\xf0\x9f\x95\x97\xf0\x9f\x95\x9c\xf0\x9f\x95\xa1\xf0\x9f\x95\xa6\xf0\x9f\x95\x93\xf0\x9f\x95\x98\xf0\x9f\x95\x9d\xf0\x9f\x95\xa2\xf0\x9f\x95\xa7\xf0\x9f\x95\x94\xf0\x9f\x95\x99\xf0\x9f\x95\x9e\xf0\x9f\x95\xa3\xf0\x9f\x95\x90\xf0\x9f\x95\x9a\xf0\x9f\x95\x9a\xf0\x9f\x95\x9f\xe2\x8c\x9a\xef\xb8\x8f\xf0\x9f\x96\xa5\xf0\x9f\x97\x9c\xf0\x9f\x93\xbc\xf0\x9f\x93\xbd\xf0\x9f\x93\xa0\xf0\x9f\x8e\x9b\xe2\x8c\x9b\xef\xb8\x8f\xf0\x9f\x92\xa1\xf0\x9f\x92\xb8\xf0\x9f\x92\xb0\xf0\x9f\x94\xa8\xe2\x9a\x99\xef\xb8\x8f\xf0\x9f\x97\xa1\xe2\x9a\xb1\xef\xb8\x8f\xe2\x9a\x97\xef\xb8\x8f\xf0\x9f\x92\x89\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x87\xf0\x9f\x8f\xbc\xf0\x9f\xa4\xba\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x99\x82\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x87\xf0\x9f\x8f\xbc\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x84\xf0\x9f\x8f\xbb\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x9b\xa3\xe2\x9b\xaa\xef\xb8\x8f\xf0\x9f\x8c\x85\xe2\x9b\xa9\xf0\x9f\x8c\x87\xf0\x9f\x9b\xa4\xf0\x9f\x8c\x85\xf0\x9f\x8e\x86\xf0\x9f\x8f\x9e\xf0\x9f\x8f\x9e\xf0\x9f\x8e\x87\xf0\x9f\x8e\x91\xf0\x9f\x8e\x86\xf0\x9f\x95\x8b\xf0\x9f\x8e\x91\xf0\x9f\x8c\x87\xf0\x9f\x8c\x87\xf0\x9f\x8f\x9e\xe2\x9b\xa9\xf0\x9f\x8c\x8c\xf0\x9f\x8e\x91\xf0\x9f\x8c\x87\xf0\x9f\x8f\x9e\xf0\x9f\x8c\x87\xe2\x9b\xa9\xf0\x9f\x8f\x9e\xf0\x9f\x96\xb1\xf0\x9f\x93\xb2\xf0\x9f\x93\xb2\xf0\x9f\x92\xbd\xf0\x9f\x93\xb1\xf0\x9f\x96\xa8\xf0\x9f\x93\xb1\xf0\x9f\x96\xb1\xf0\x9f\x8c\x8c\xf0\x9f\x93\xb2\xf0\x9f\x8c\x8c\xf0\x9f\x96\xa8\xf0\x9f\x8e\x87\xf0\x9f\x8e\x86\xf0\x9f\x96\xb1\xf0\x9f\x96\xb1\xf0\x9f\x8c\x8c\xf0\x9f\x8c\x89\xf0\x9f\x8e\x87\xf0\x9f\x93\xb2\xf0\x9f\x8c\x83\xf0\x9f\x93\xb2\xf0\x9f\x93\xb1\xf0\x9f\x96\xa8\xf0\x9f\x93\xb1\xf0\x9f\x92\xbb\xe2\x8c\x9a\xef\xb8\x8f\xf0\x9f\x92\xbe\xf0\x9f\x93\xb1\xf0\x9f\x8e\x87\xf0\x9f\x8c\x8c\xe2\x9b\xa9\xf0\x9f\x8c\x8c\xf0\x9f\x8c\x85\xf0\x9f\x8c\x8c\xf0\x9f\x92\xbe\xf0\x9f\x93\xb1\xf0\x9f\x93\xa8\xf0\x9f\x93\x83\xf0\x9f\x8e\x89\xf0\x9f\x93\x9c\xf0\x9f\x93\xa4\xf0\x9f\x9b\x92\xf0\x9f\x9b\x92\xf0\x9f\x93\xa8\xf0\x9f\x8e\x88\xf0\x9f\x8e\x89\xf0\x9f\x9b\x8e\xf0\x9f\x8e\x89\xe2\x9c\x89\xef\xb8\x8f\xf0\x9f\x9b\x8f\xf0\x9f\x92\x8c\xf0\x9f\x9b\x92\xf0\x9f\x8e\x81\xf0\x9f\x9b\x8f\xf0\x9f\x93\xa8\xf0\x9f\x9b\x8f\xf0\x9f\x92\xb3\xf0\x9f\x9b\xa1\xf0\x9f\x9b\xa0\xf0\x9f\x93\xbf\xf0\x9f\x94\xab\xf0\x9f\x94\xab\xf0\x9f\x94\xac\xf0\x9f\x94\xac\xf0\x9f\x94\xab\xf0\x9f\x94\xae\xf0\x9f\x8f\xba\xf0\x9f\x9b\xa1\xf0\x9f\x8f\xba\xe2\x9a\x92\xf0\x9f\x9a\xac\xf0\x9f\x9b\xa1\xf0\x9f\x8f\xba\xf0\x9f\x94\xae\xe2\x9b\x93\xf0\x9f\x94\xac\xe2\x9b\x93\xf0\x9f\x94\xae\xe2\x9b\x93]]></Content>\n<MsgId>6517554112652902769</MsgId>\n</xml>'
+[2018-02-01 11:58:50,011] [INFO] wechat_main
+[2018-02-01 11:58:50,013] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486329</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[kjn]]></Content>\n<MsgId>6517554155602575732</MsgId>\n</xml>'
+[2018-02-01 11:58:50,015] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517486330</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[kjn]]></Content>
+        </xml>
+        
+[2018-02-01 11:59:01,473] [INFO] wechat_main
+[2018-02-01 11:59:01,475] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517486341</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[klvkl]]></Content>\n<MsgId>6517554207142183290</MsgId>\n</xml>'
+[2018-02-01 11:59:01,478] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517486341</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[klvkl]]></Content>
+        </xml>
+        
+[2018-02-01 11:59:18,310] [INFO] wechat_main
+[2018-02-01 11:59:18,312] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517486358</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[  151293359163367524156985214799588488864 54087945565 085665505834940504565658405546494970767976764879580554.556867678768.34879794994 99464:549787 845764848-846 78.594949078/649979.995648\xc2\xa5964848-549494964545,6466164949:949946519:994984 759.92655.5758466-64945 .976464 468-64655595545595844985807842109/885845510\xe2\x88\x92\xe5\xa6\x88\xe5\xa6\x88548488448464-64649548549469454864984587096787840446-518 845\xe7\x88\xb8\xe7\x88\xb854848684\xe5\xa6\x88\xe5\xa6\x8887878757851857648481054649485161648554679.8515194 4531649\xe4\xbd\x99\xe4\xba\xba\xe5\x92\xaf\xe7\x8b\x97\xe7\x8b\x97\xe5\x92\xaf\xe6\xb7\x85\xe6\xb7\x85\xe6\xb2\xa5\xe6\xb2\xa5\xef\xbc\x8c\xe7\x88\xb8\xe3\x80\x82\xe6\x8f\x90\xe4\xbe\x9b\xe5\xa5\x96\xe5\xad\xa6\xe9\x87\x91\xef\xbc\x8c\xe5\xbb\xba\xe5\x86\x9b\xef\xbc\x8c\xe5\xa6\x88\xef\xbc\x8c\xe8\xaf\xad\xef\xbc\x8c\xe8\xbf\xbdOK\xef\xbc\x8ctiglongniyimingjrjxingwo\xf0\x9f\x8c\x94\xf0\x9f\x8c\x92\xf0\x9f\x8c\x93\xf0\x9f\x8c\x91\xf0\x9f\x8c\x98\xf0\x9f\x8c\x97\xf0\x9f\x8c\x96\xf0\x9f\x8c\x95\xe2\x9b\x84\xef\xb8\x8f\xf0\x9f\x8c\xa5\xe2\x9b\x88\xf0\x9f\x8c\xa7\xe2\x9b\x84\xef\xb8\x8f\xf0\x9f\x8c\xa7\xf0\x9f\x8c\xa9\xe2\x98\x94\xef\xb8\x8f\xe2\x9b\x85\xef\xb8\x8f\xf0\x9f\x8d\x91\xf0\x9f\x8d\x8a\xf0\x9f\x8d\x8f\xf0\x9f\x8d\x91\xf0\x9f\x8d\x96\xf0\x9f\x8d\xa0\xf0\x9f\xa5\xab\xf0\x9f\x8c\xad\xf0\x9f\x8d\x95\xf0\x9f\xa5\x96\xf0\x9f\x8d\x96\xf0\x9f\xa5\xaa\xf0\x9f\x8c\xad\xf0\x9f\xa5\x94\xf0\x9f\x8d\x9a\xf0\x9f\x8d\xab\xe2\x98\x95\xef\xb8\x8f\xf0\x9f\x8c\xb0\xf0\x9f\x8e\x82\xf0\x9f\xa5\x9c\xf0\x9f\xa5\x9c\xf0\x9f\x8d\xb0\xf0\x9f\x8d\xa1\xf0\x9f\x8d\xac\xf0\x9f\x8c\xb0\xe2\x98\x95\xef\xb8\x8f\xf0\x9f\x8d\xab\xf0\x9f\x8d\xa1\xf0\x9f\x8d\xab\xf0\x9f\xa5\x82\xf0\x9f\x8d\xbb\xf0\x9f\x8d\xbb\xf0\x9f\x8d\xb5\xf0\x9f\x8f\x91\xf0\x9f\x8e\xb1\xf0\x9f\x8e\xb1\xf0\x9f\x8f\x88\xf0\x9f\x8f\x92\xf0\x9f\x8f\x89\xf0\x9f\xa5\x8a\xf0\x9f\x8f\x8b\xf0\x9f\x8f\xbe\xe2\x99\x82\xef\xb8\x8f\xf0\x9f\x9a\xa8\xf0\x9f\x9a\x93\xf0\x9f\x8f\x8d\xf0\x9f\x9a\x93\xf0\x9f\x8f\x8d\xf0\x9f\x9a\x9b\xf0\x9f\x9b\xab\xf0\x9f\x9a\x9e\xf0\x9f\x9a\x82\xf0\x9f\x9a\x96\xf0\x9f\x9a\x82\xf0\x9f\x9a\x96\xf0\x9f\x9a\x8b\xf0\x9f\x9b\xb6\xf0\x9f\x9a\xa6\xf0\x9f\x9b\xb6\xf0\x9f\x8c\x89\xf0\x9f\x8e\x86\xf0\x9f\x8e\x86\xf0\x9f\x93\x9e\xf0\x9f\x96\xa8\xf0\x9f\x93\xba\xf0\x9f\x96\xa8\xf0\x9f\x92\xb4\xf0\x9f\x94\xa6\xe2\x9a\x92\xf0\x9f\x95\xaf\xe2\x9b\x93\xf0\x9f\x94\xa6\xe2\x9a\x92\xf0\x9f\x92\xb8\xe2\x9b\x8f\xf0\x9f\x92\xb3\xf0\x9f\x8f\xba\xf0\x9f\x94\xac\xf0\x9f\x9b\x81\xf0\x9f\x9b\x81\xf0\x9f\x92\x89\xf0\x9f\x92\x89\xf0\x9f\x92\x89\xf0\x9f\x8e\x8a\xf0\x9f\x93\x88\xf0\x9f\x93\x88\xf0\x9f\x93\x92\xf0\x9f\x93\x817\xef\xb8\x8f\xe2\x83\xa3\xe2\x8f\xb9#\xef\xb8\x8f\xe2\x83\xa32\xef\xb8\x8f\xe2\x83\xa3\xf0\x9f\x86\x997\xef\xb8\x8f\xe2\x83\xa3\xe2\x86\x99\xef\xb8\x8f\xf0\x9f\x94\x81\xe2\x86\x96\xef\xb8\x8f\xe2\xac\x86\xef\xb8\x8f\xe2\xa4\xb5\xef\xb8\x8f\xe2\x86\x95\xef\xb8\x8f\xe2\x84\xa2\xef\xb8\x8f\xe2\x9c\x94\xef\xb8\x8f\xe2\x9e\x95\xf0\x9f\x94\x99\xe2\x84\xa2\xef\xb8\x8f\xe2\x84\xa2\xef\xb8\x8f\xf0\x9f\x94\x9b\xe2\x9e\xbf\xf0\x9f\x87\xb3\xf0\x9f\x87\xa8\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xbe\xf0\x9f\x87\xaa\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xba\xf0\x9f\x87\xbf\xf0\x9f\x87\xb8\xf0\x9f\x87\xac\xf0\x9f\x87\xaf\xf0\x9f\x87\xb4\xf0\x9f\x8f\xb4\xf3\xa0\x81\xa7\xf3\xa0\x81\xa2\xf3\xa0\x81\xb3\xf3\xa0\x81\xa3\xf3\xa0\x81\xb4\xf3\xa0\x81\xbf\xf0\x9f\x87\xb3\xf0\x9f\x87\xa8\xf0\x9f\x87\xae\xf0\x9f\x87\xb3\xf0\x9f\x87\xb3\xf0\x9f\x87\xbf\xf0\x9f\x87\xae\xf0\x9f\x87\xa9\xf0\x9f\x8f\xb4\xf3\xa0\x81\xa7\xf3\xa0\x81\xa2\xf3\xa0\x81\xb3\xf3\xa0\x81\xa3\xf3\xa0\x81\xb4\xf3\xa0\x81\xbf\xe2\x9c\x82\xef\xb8\x8f\xf0\x9f\x93\x82\xe2\x9c\x82\xef\xb8\x8f\xf0\x9f\x96\x87\xf0\x9f\x93\x82\xf0\x9f\x93\x89\xf0\x9f\x93\x94\xf0\x9f\x94\x97\xf0\x9f\x93\x8b\xf0\x9f\x93\x93\xf0\x9f\x92\x97\xf0\x9f\x88\xaf\xef\xb8\x8f\xf0\x9f\x9a\xbe\xe2\x8f\xaf\xf0\x9f\x86\x927\xef\xb8\x8f\xe2\x83\xa36\xef\xb8\x8f\xe2\x83\xa3#\xef\xb8\x8f\xe2\x83\xa3\xe2\x9e\x96\xc2\xa9\xef\xb8\x8f\xe2\x9e\x96\xf0\x9f\x94\x9a\xf0\x9f\x94\xb4\xe2\x9a\xab\xef\xb8\x8f\xf0\x9f\x94\xb4\xf0\x9f\x94\x8a\xf0\x9f\x94\x8a\xe2\x97\xbb\xef\xb8\x8f\xf0\x9f\x95\x91\xf0\x9f\x95\x96\xf0\x9f\x95\x9b\xf0\x9f\x95\xa0\xf0\x9f\x95\xa5\xf0\x9f\x95\x92\xf0\x9f\x95\x97\xf0\x9f\x95\x9c\xf0\x9f\x95\xa1\xf0\x9f\x95\xa6\xf0\x9f\x95\x93\xf0\x9f\x95\x98\xf0\x9f\x95\x9d\xf0\x9f\x95\xa2\xf0\x9f\x95\xa7\xf0\x9f\x95\x94\xf0\x9f\x95\x99\xf0\x9f\x95\x9e\xf0\x9f\x95\xa3\xf0\x9f\x95\x90\xf0\x9f\x95\x9a\xf0\x9f\x95\x9a\xf0\x9f\x95\x9f\xe2\x8c\x9a\xef\xb8\x8f\xf0\x9f\x96\xa5\xf0\x9f\x97\x9c\xf0\x9f\x93\xbc\xf0\x9f\x93\xbd\xf0\x9f\x93\xa0\xf0\x9f\x8e\x9b\xe2\x8c\x9b\xef\xb8\x8f\xf0\x9f\x92\xa1\xf0\x9f\x92\xb8\xf0\x9f\x92\xb0\xf0\x9f\x94\xa8\xe2\x9a\x99\xef\xb8\x8f\xf0\x9f\x97\xa1\xe2\x9a\xb1\xef\xb8\x8f\xe2\x9a\x97\xef\xb8\x8f\xf0\x9f\x92\x89\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x99\x82\xef\xb8\x8f\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xef\xb8\x8f\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x87\xf0\x9f\x8f\xbc\xf0\x9f\xa4\xba\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xba\xe2\x9b\xb9\xf0\x9f\x8f\xbc\xe2\x99\x82\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x87\xf0\x9f\x8f\xbc\xf0\x9f\xa4\xbc\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x8f\x84\xf0\x9f\x8f\xbb\xe2\x99\x80\xef\xb8\x8f\xf0\x9f\x9b\xa3\xe2\x9b\xaa\xef\xb8\x8f\xf0\x9f\x8c\x85\xe2\x9b\xa9\xf0\x9f\x8c\x87\xf0\x9f\x9b\xa4\xf0\x9f\x8c\x85\xf0\x9f\x8e\x86\xf0\x9f\x8f\x9e\xf0\x9f\x8f\x9e\xf0\x9f\x8e\x87\xf0\x9f\x8e\x91\xf0\x9f\x8e\x86\xf0\x9f\x95\x8b\xf0\x9f\x8e\x91\xf0\x9f\x8c\x87\xf0\x9f\x8c\x87\xf0\x9f\x8f\x9e\xe2\x9b\xa9\xf0\x9f\x8c\x8c\xf0\x9f\x8e\x91\xf0\x9f\x8c\x87\xf0\x9f\x8f\x9e\xf0\x9f\x8c\x87\xe2\x9b\xa9\xf0\x9f\x8f\x9e\xf0\x9f\x96\xb1\xf0\x9f\x93\xb2\xf0\x9f\x93\xb2\xf0\x9f\x92\xbd\xf0\x9f\x93\xb1\xf0\x9f\x96\xa8\xf0\x9f\x93\xb1\xf0\x9f\x96\xb1\xf0\x9f\x8c\x8c\xf0\x9f\x93\xb2\xf0\x9f\x8c\x8c\xf0\x9f\x96\xa8\xf0\x9f\x8e\x87\xf0\x9f\x8e\x86\xf0\x9f\x96\xb1\xf0\x9f\x96\xb1\xf0\x9f\x8c\x8c\xf0\x9f\x8c\x89\xf0\x9f\x8e\x87\xf0\x9f\x93\xb2\xf0\x9f\x8c\x83\xf0\x9f\x93\xb2\xf0\x9f\x93\xb1\xf0\x9f\x96\xa8\xf0\x9f\x93\xb1\xf0\x9f\x92\xbb\xe2\x8c\x9a\xef\xb8\x8f\xf0\x9f\x92\xbe\xf0\x9f\x93\xb1\xf0\x9f\x8e\x87\xf0\x9f\x8c\x8c\xe2\x9b\xa9\xf0\x9f\x8c\x8c\xf0\x9f\x8c\x85\xf0\x9f\x8c\x8c\xf0\x9f\x92\xbe\xf0\x9f\x93\xb1\xf0\x9f\x93\xa8\xf0\x9f\x93\x83\xf0\x9f\x8e\x89\xf0\x9f\x93\x9c\xf0\x9f\x93\xa4\xf0\x9f\x9b\x92\xf0\x9f\x9b\x92\xf0\x9f\x93\xa8\xf0\x9f\x8e\x88\xf0\x9f\x8e\x89\xf0\x9f\x9b\x8e\xf0\x9f\x8e\x89\xe2\x9c\x89\xef\xb8\x8f\xf0\x9f\x9b\x8f\xf0\x9f\x92\x8c\xf0\x9f\x9b\x92\xf0\x9f\x8e\x81\xf0\x9f\x9b\x8f\xf0\x9f\x93\xa8\xf0\x9f\x9b\x8f\xf0\x9f\x92\xb3\xf0\x9f\x9b\xa1\xf0\x9f\x9b\xa0\xf0\x9f\x93\xbf\xf0\x9f\x94\xab\xf0\x9f\x94\xab\xf0\x9f\x94\xac\xf0\x9f\x94\xac\xf0\x9f\x94\xab\xf0\x9f\x94\xae\xf0\x9f\x8f\xba\xf0\x9f\x9b\xa1\xf0\x9f\x8f\xba\xe2\x9a\x92\xf0\x9f\x9a\xac\xf0\x9f\x9b\xa1\xf0\x9f\x8f\xba\xf0\x9f\x94\xae\xe2\x9b\x93\xf0\x9f\x94\xac\xe2\x9b\x93\xf0\x9f\x94\xae\xe2\x9b\x93]]></Content>\n<MsgId>6517554280156627328</MsgId>\n</xml>'
+[2018-02-01 12:00:59,864] [INFO] wechat_main
+[2018-02-01 12:00:59,865] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517486454</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[ \xe5\xa6\x88\xe5\xa6\x88\xe7\x88\xb8\xe7\x88\xb8\xe7\x9a\x84\xe6\x89\x8b\xe6\x9c\xba\xe5\x8f\xb7\xe7\xa0\x8115891335215]]></Content>\n<MsgId>6517554692473487766</MsgId>\n</xml>'
+[2018-02-01 12:00:59,926] [INFO] wechat_main
+[2018-02-01 12:00:59,927] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517486454</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[ \xe5\xa6\x88\xe5\xa6\x88\xe7\x88\xb8\xe7\x88\xb8\xe7\x9a\x84\xe6\x89\x8b\xe6\x9c\xba\xe5\x8f\xb7\xe7\xa0\x8115891335215]]></Content>\n<MsgId>6517554692473487766</MsgId>\n</xml>'
+[2018-02-01 12:01:37,077] [INFO] wechat_main
+[2018-02-01 12:01:37,078] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517486496</CreateTime>\n<MsgType><![CDATA[voice]]></MsgType>\n<MediaId><![CDATA[_3oFvp7qwN5TEaxx_PC63PzQxoTllvayR4v6tqiwLwNpUTq7VuodGRsYKd4gBQ_s]]></MediaId>\n<Format><![CDATA[amr]]></Format>\n<MsgId>6517554872862114211</MsgId>\n<Recognition><![CDATA[]]></Recognition>\n</xml>'
+[2018-02-01 12:01:37,080] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 42, in wechat_main
+    content=xml.find("Content").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[2018-02-01 12:02:03,150] [INFO] wechat_main
+[2018-02-01 12:02:03,152] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517486522</CreateTime>\n<MsgType><![CDATA[voice]]></MsgType>\n<MediaId><![CDATA[JLcEti1n29bzbRqiiJP_hv0Swl5HsGvS1cINrTBLhL-my_LihTvm2-uV2PqQxEMR]]></MediaId>\n<Format><![CDATA[amr]]></Format>\n<MsgId>6517554984531263915</MsgId>\n<Recognition><![CDATA[]]></Recognition>\n</xml>'
+[2018-02-01 12:02:03,154] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 42, in wechat_main
+    content=xml.find("Content").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[2018-02-01 12:04:34,402] [INFO] wechat_main
+[2018-02-01 12:04:34,403] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486669</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517555615891456480</MsgId>\n</xml>'
+[2018-02-01 12:04:34,407] [INFO] ['22', '18']
+[2018-02-01 12:04:34,409] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data().getT()
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 94, in getT
+    logger.info(T)
+NameError: name 'T' is not defined
+[2018-02-01 12:04:35,150] [INFO] wechat_main
+[2018-02-01 12:04:35,152] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486669</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517555615891456480</MsgId>\n</xml>'
+[2018-02-01 12:04:35,157] [INFO] ['22', '18']
+[2018-02-01 12:04:35,159] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data().getT()
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 94, in getT
+    logger.info(T)
+NameError: name 'T' is not defined
+[2018-02-01 12:06:03,544] [INFO] wechat_main
+[2018-02-01 12:06:03,549] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486760</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517556006733480449</MsgId>\n</xml>'
+[2018-02-01 12:06:03,567] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data().getT()
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 90, in __init__
+    logger.info([T,H])
+NameError: name 'T' is not defined
+[2018-02-01 12:06:06,352] [INFO] wechat_main
+[2018-02-01 12:06:06,354] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486760</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517556006733480449</MsgId>\n</xml>'
+[2018-02-01 12:06:06,359] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data().getT()
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 90, in __init__
+    logger.info([T,H])
+NameError: name 'T' is not defined
+[2018-02-01 12:06:14,155] [INFO] wechat_main
+[2018-02-01 12:06:14,156] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486760</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517556006733480449</MsgId>\n</xml>'
+[2018-02-01 12:06:14,160] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 49, in wechat_main
+    content=Data().getT()
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 90, in __init__
+    logger.info([T,H])
+NameError: name 'T' is not defined
+[2018-02-01 12:08:15,491] [INFO] wechat_main
+[2018-02-01 12:08:15,492] [INFO] wechat_main
+[2018-02-01 12:08:15,494] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486885</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[lvtu]]></Content>\n<MsgId>6517556543604392488</MsgId>\n</xml>'
+[2018-02-01 12:08:15,494] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486885</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[lvtu]]></Content>\n<MsgId>6517556543604392488</MsgId>\n</xml>'
+[2018-02-01 12:08:15,497] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517486895</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[lvtu]]></Content>
+        </xml>
+        
+[2018-02-01 12:08:15,498] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517486895</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[lvtu]]></Content>
+        </xml>
+        
+[2018-02-01 12:08:20,248] [INFO] wechat_main
+[2018-02-01 12:08:20,250] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486900</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517556608028901935</MsgId>\n</xml>'
+[2018-02-01 12:08:20,256] [INFO] ['23', '18']
+[2018-02-01 12:08:20,258] [INFO] 23
+[2018-02-01 12:08:20,259] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517486900</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[23]]></Content>
+        </xml>
+        
+[2018-02-01 12:09:23,372] [INFO] wechat_main
+[2018-02-01 12:09:23,373] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517486960</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517556865726939705</MsgId>\n</xml>'
+[2018-02-01 12:09:23,377] [INFO] ['22', '17']
+[2018-02-01 12:09:23,379] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517486963</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[17]]></Content>
+        </xml>
+        
+[2018-02-01 12:33:48,816] [INFO] wechat_main
+[2018-02-01 12:33:48,818] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517488423</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[hello]]></Content>\n<MsgId>6517563149264094041</MsgId>\n</xml>'
+[2018-02-01 12:33:48,819] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517488428</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hello]]></Content>
+        </xml>
+        
+[2018-02-01 12:33:52,745] [INFO] wechat_main
+[2018-02-01 12:33:52,746] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517488423</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[hello]]></Content>\n<MsgId>6517563149264094041</MsgId>\n</xml>'
+[2018-02-01 12:33:52,748] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517488432</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hello]]></Content>
+        </xml>
+        
+[2018-02-01 12:33:59,802] [INFO] wechat_main
+[2018-02-01 12:33:59,804] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517488439</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517563217983570783</MsgId>\n</xml>'
+[2018-02-01 12:33:59,810] [INFO] ['22', '18']
+[2018-02-01 12:33:59,812] [INFO] 22
+[2018-02-01 12:33:59,814] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517488439</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[22]]></Content>
+        </xml>
+        
+[2018-02-01 12:34:05,115] [INFO] wechat_main
+[2018-02-01 12:34:05,116] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517488444</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517563239458407268</MsgId>\n</xml>'
+[2018-02-01 12:34:05,119] [INFO] ['22', '18']
+[2018-02-01 12:34:05,120] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517488445</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-01 12:43:51,370] [INFO] wechat_main
+[2018-02-01 12:43:51,373] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517489030</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517565756309242821</MsgId>\n</xml>'
+[2018-02-01 12:43:51,378] [INFO] ['21', '18']
+[2018-02-01 12:43:51,380] [INFO] 21
+[2018-02-01 12:43:51,382] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517489031</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[21]]></Content>
+        </xml>
+        
+[2018-02-01 12:44:03,151] [INFO] wechat_main
+[2018-02-01 12:44:03,153] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517489042</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517565807848850387</MsgId>\n</xml>'
+[2018-02-01 12:44:03,158] [INFO] ['21', '18']
+[2018-02-01 12:44:03,160] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517489043</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-01 12:44:08,645] [INFO] wechat_main
+[2018-02-01 12:44:08,646] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517489048</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe4\xbd\xa0\xe5\xa5\xbd]]></Content>\n<MsgId>6517565833618654165</MsgId>\n</xml>'
+[2018-02-01 12:44:31,424] [INFO] wechat_main
+[2018-02-01 12:44:31,426] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517489071</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\x88\x91\xe7\x88\xb1\xe4\xbd\xa0]]></Content>\n<MsgId>6517565932402901977</MsgId>\n</xml>'
+[2018-02-01 12:44:48,825] [INFO] wechat_main
+[2018-02-01 12:44:48,827] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517489088</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe3\x80\x90\xe6\x94\xb6\xe5\x88\xb0\xe4\xb8\x8d\xe6\x94\xaf\xe6\x8c\x81\xe7\x9a\x84\xe6\xb6\x88\xe6\x81\xaf\xe7\xb1\xbb\xe5\x9e\x8b\xef\xbc\x8c\xe6\x9a\x82\xe6\x97\xa0\xe6\xb3\x95\xe6\x98\xbe\xe7\xa4\xba\xe3\x80\x91]]></Content>\n<MsgId>6517566005417346013</MsgId>\n</xml>'
+[2018-02-01 12:45:48,836] [INFO] wechat_main
+[2018-02-01 12:45:48,838] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517489148</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[ ^_^15129335916/:heart/:rose]]></Content>\n<MsgId>6517566263115383781</MsgId>\n</xml>'
+[2018-02-01 12:45:48,840] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517489148</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[ ^_^15129335916/:heart/:rose]]></Content>
+        </xml>
+        
+[2018-02-01 12:46:51,738] [INFO] wechat_main
+[2018-02-01 12:46:51,740] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517489211</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[/:pig/:rose/:fade/:fade/:showlove/:heart/:break/:shit]]></Content>\n<MsgId>6517566533698323437</MsgId>\n</xml>'
+[2018-02-01 12:46:51,750] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517489211</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[/:pig/:rose/:fade/:fade/:showlove/:heart/:break/:shit]]></Content>
+        </xml>
+        
+[2018-02-01 13:39:30,807] [INFO] wechat_main
+[2018-02-01 13:39:30,809] [INFO] wechat_main
+[2018-02-01 13:39:30,812] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517492365</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe5\xa4\xa9\xe5\xa4\xa9]]></Content>\n<MsgId>6517580080025175587</MsgId>\n</xml>'
+[2018-02-01 13:39:30,813] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517492365</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe5\xa4\xa9\xe5\xa4\xa9]]></Content>\n<MsgId>6517580080025175587</MsgId>\n</xml>'
+[2018-02-01 13:39:37,133] [INFO] wechat_main
+[2018-02-01 13:39:37,134] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517492376</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517580127269815845</MsgId>\n</xml>'
+[2018-02-01 13:39:37,140] [INFO] ['28', '14']
+[2018-02-01 13:39:37,142] [INFO] 28
+[2018-02-01 13:39:37,143] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517492377</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[28]]></Content>
+        </xml>
+        
+[2018-02-01 13:39:47,306] [INFO] wechat_main
+[2018-02-01 13:39:47,307] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517492383</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517580157334586920</MsgId>\n</xml>'
+[2018-02-01 13:39:47,310] [INFO] ['28', '14']
+[2018-02-01 13:39:47,311] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517492387</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[14]]></Content>
+        </xml>
+        
+[2018-02-01 14:06:53,482] [INFO] wechat_main
+[2018-02-01 14:06:53,484] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517494004</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517587119476574003</MsgId>\n</xml>'
+[2018-02-01 14:06:53,493] [INFO] wechat_main
+[2018-02-01 14:06:53,495] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517494004</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517587119476574003</MsgId>\n</xml>'
+[2018-02-01 14:06:53,499] [INFO] ['24', '17']
+[2018-02-01 14:06:53,501] [INFO] 24
+[2018-02-01 14:06:53,502] [INFO] ['24', '17']
+[2018-02-01 14:06:53,503] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517494013</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[24]]></Content>
+        </xml>
+        
+[2018-02-01 14:06:53,504] [INFO] 24
+[2018-02-01 14:06:53,508] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517494013</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[24]]></Content>
+        </xml>
+        
+[2018-02-01 14:07:07,352] [INFO] wechat_main
+[2018-02-01 14:07:07,354] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517494022</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517587196785985333</MsgId>\n</xml>'
+[2018-02-01 14:07:07,359] [INFO] ['24', '17']
+[2018-02-01 14:07:07,361] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517494027</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[17]]></Content>
+        </xml>
+        
+[2018-02-01 14:09:47,149] [INFO] wechat_main
+[2018-02-01 14:09:47,151] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517494183</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517587888275720009</MsgId>\n</xml>'
+[2018-02-01 14:09:47,155] [INFO] ['24', '16']
+[2018-02-01 14:09:47,157] [INFO] 24
+[2018-02-01 14:09:47,158] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517494187</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[24]]></Content>
+        </xml>
+        
+[2018-02-01 14:10:03,937] [INFO] wechat_main
+[2018-02-01 14:10:03,939] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517494203</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe9\x97\xae\xe9\x97\xae\xe9\x97\xae]]></Content>\n<MsgId>6517587974175065939</MsgId>\n</xml>'
+[2018-02-01 14:10:10,424] [INFO] wechat_main
+[2018-02-01 14:10:10,425] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517494208</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517587995649902422</MsgId>\n</xml>'
+[2018-02-01 14:10:10,428] [INFO] ['24', '16']
+[2018-02-01 14:10:10,429] [INFO] 24
+[2018-02-01 14:10:10,429] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517494210</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[24]]></Content>
+        </xml>
+        
+[2018-02-01 14:10:14,212] [INFO] wechat_main
+[2018-02-01 14:10:14,214] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517494213</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517588017124738905</MsgId>\n</xml>'
+[2018-02-01 14:10:14,218] [INFO] ['24', '16']
+[2018-02-01 14:10:14,220] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517494214</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-01 14:22:18,890] [INFO] wechat_main
+[2018-02-01 14:22:18,892] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517494937</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517591126681061325</MsgId>\n</xml>'
+[2018-02-01 14:22:18,896] [INFO] ['24', '16']
+[2018-02-01 14:22:18,898] [INFO] 24
+[2018-02-01 14:22:18,899] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517494938</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[24]]></Content>
+        </xml>
+        
+[2018-02-01 14:22:23,790] [INFO] wechat_main
+[2018-02-01 14:22:23,792] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517494943</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517591152450865103</MsgId>\n</xml>'
+[2018-02-01 14:22:23,796] [INFO] ['24', '16']
+[2018-02-01 14:22:23,798] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517494943</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-01 14:23:06,567] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:09,981] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:11,992] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:12,719] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:13,385] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:14,355] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:17,106] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,154] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,160] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,229] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,234] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,273] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,276] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,298] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,300] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,310] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:20,317] [INFO] DataTime:2018-02-01 22:22:50T:24H:16
+[2018-02-01 14:23:39,671] [INFO] wechat_main
+[2018-02-01 14:23:39,673] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517495019</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517591478868379612</MsgId>\n</xml>'
+[2018-02-01 14:23:39,677] [INFO] ['24', '16']
+[2018-02-01 14:23:39,678] [INFO] 24
+[2018-02-01 14:23:39,679] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517495019</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[24]]></Content>
+        </xml>
+        
+[2018-02-01 14:23:45,368] [INFO] wechat_main
+[2018-02-01 14:23:45,370] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517495024</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517591500343216094</MsgId>\n</xml>'
+[2018-02-01 14:23:45,375] [INFO] ['24', '16']
+[2018-02-01 14:23:45,376] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517495025</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-01 23:28:43,507] [INFO] wechat_main
+[2018-02-01 23:28:43,508] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517527718</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517731920003993007</MsgId>\n</xml>'
+[2018-02-01 23:28:43,511] [INFO] ['23', '16']
+[2018-02-01 23:28:43,512] [INFO] 23
+[2018-02-01 23:28:43,513] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517527723</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[23]]></Content>
+        </xml>
+        
+[2018-02-02 00:23:22,511] [INFO] wechat_main
+[2018-02-02 00:23:22,513] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517531001</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517746020381626005</MsgId>\n</xml>'
+[2018-02-02 00:23:22,518] [INFO] ['22', '16']
+[2018-02-02 00:23:22,519] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517531002</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-02 00:23:35,630] [INFO] wechat_main
+[2018-02-02 00:23:35,693] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517531011</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe4\xbd\xa0\xe5\xa5\xbd]]></Content>\n<MsgId>6517746063331298969</MsgId>\n</xml>'
+[2018-02-02 04:48:06,543] [INFO] wechat_main
+[2018-02-02 04:48:06,544] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517546885</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517814241642158480</MsgId>\n</xml>'
+[2018-02-02 04:48:06,547] [INFO] ['23', '16']
+[2018-02-02 04:48:06,547] [INFO] 23
+[2018-02-02 04:48:06,548] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517546886</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[23]]></Content>
+        </xml>
+        
+[2018-02-02 04:48:21,896] [INFO] wechat_main
+[2018-02-02 04:48:21,898] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517546891</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517814267411962258</MsgId>\n</xml>'
+[2018-02-02 04:48:21,903] [INFO] ['23', '16']
+[2018-02-02 04:48:21,905] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517546901</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-02 04:48:22,271] [INFO] wechat_main
+[2018-02-02 04:48:22,273] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517546891</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517814267411962258</MsgId>\n</xml>'
+[2018-02-02 04:48:22,278] [INFO] ['23', '16']
+[2018-02-02 04:48:22,279] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517546902</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-02 04:48:22,598] [INFO] wechat_main
+[2018-02-02 04:48:22,600] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517546891</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517814267411962258</MsgId>\n</xml>'
+[2018-02-02 04:48:22,605] [INFO] ['23', '16']
+[2018-02-02 04:48:22,606] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517546902</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-02 04:48:28,816] [INFO] wechat_main
+[2018-02-02 04:48:28,817] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517546908</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517814340426406294</MsgId>\n</xml>'
+[2018-02-02 04:48:28,822] [INFO] ['23', '16']
+[2018-02-02 04:48:28,824] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517546908</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-02 04:48:33,333] [INFO] wechat_main
+[2018-02-02 04:48:33,334] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517546913</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517814361901242776</MsgId>\n</xml>'
+[2018-02-02 04:48:33,339] [INFO] ['23', '16']
+[2018-02-02 04:48:33,340] [INFO] 23
+[2018-02-02 04:48:33,342] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517546913</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[23]]></Content>
+        </xml>
+        
+[2018-02-02 07:00:21,545] [INFO] wechat_main
+[2018-02-02 07:00:21,547] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1KfGiLv76aT7EFmXrSPnZ1Q]]></FromUserName>\n<CreateTime>1517554820</CreateTime>\n<MsgType><![CDATA[event]]></MsgType>\n<Event><![CDATA[subscribe]]></Event>\n<EventKey><![CDATA[]]></EventKey>\n</xml>'
+[2018-02-02 07:00:21,549] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/wechatInterface.py", line 42, in wechat_main
+    content=xml.find("Content").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[2018-02-02 07:00:28,958] [INFO] wechat_main
+[2018-02-02 07:00:28,960] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1KfGiLv76aT7EFmXrSPnZ1Q]]></FromUserName>\n<CreateTime>1517554828</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[hello]]></Content>\n<MsgId>6517848356567392180</MsgId>\n</xml>'
+[2018-02-02 07:00:28,962] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1KfGiLv76aT7EFmXrSPnZ1Q]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517554828</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hello]]></Content>
+        </xml>
+        
+[2018-02-02 07:00:34,732] [INFO] wechat_main
+[2018-02-02 07:00:34,741] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1KfGiLv76aT7EFmXrSPnZ1Q]]></FromUserName>\n<CreateTime>1517554834</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517848382337195960</MsgId>\n</xml>'
+[2018-02-02 07:00:34,746] [INFO] ['20', '18']
+[2018-02-02 07:00:34,748] [INFO] 20
+[2018-02-02 07:00:34,749] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1KfGiLv76aT7EFmXrSPnZ1Q]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517554834</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-02 07:00:40,608] [INFO] wechat_main
+[2018-02-02 07:00:40,614] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1KfGiLv76aT7EFmXrSPnZ1Q]]></FromUserName>\n<CreateTime>1517554839</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517848403812032442</MsgId>\n</xml>'
+[2018-02-02 07:00:40,619] [INFO] ['20', '18']
+[2018-02-02 07:00:40,621] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1KfGiLv76aT7EFmXrSPnZ1Q]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517554840</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-02 10:09:54,667] [INFO] wechat_main
+[2018-02-02 10:09:54,669] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517566189</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517897151690845955</MsgId>\n</xml>'
+[2018-02-02 10:09:54,674] [INFO] ['19', '18']
+[2018-02-02 10:09:54,676] [INFO] 19
+[2018-02-02 10:09:54,677] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517566194</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[19]]></Content>
+        </xml>
+        
+[2018-02-02 10:09:55,033] [INFO] wechat_main
+[2018-02-02 10:09:55,035] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517566189</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517897151690845955</MsgId>\n</xml>'
+[2018-02-02 10:09:55,040] [INFO] ['19', '18']
+[2018-02-02 10:09:55,041] [INFO] 19
+[2018-02-02 10:09:55,042] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517566195</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[19]]></Content>
+        </xml>
+        
+[2018-02-02 10:09:59,183] [INFO] wechat_main
+[2018-02-02 10:09:59,185] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517566198</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517897190345551623</MsgId>\n</xml>'
+[2018-02-02 10:09:59,189] [INFO] ['19', '18']
+[2018-02-02 10:09:59,191] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517566199</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-02 12:05:03,842] [INFO] DataTime:2018-02-02 20:04:23T:20H:19
+[2018-02-02 12:05:03,845] [INFO] DataTime:2018-02-02 20:04:23T:20H:19
+[2018-02-02 12:17:12,664] [INFO] wechat_main
+[2018-02-02 12:17:12,666] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517573826</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[hello]]></Content>\n<MsgId>6517929952356086806</MsgId>\n</xml>'
+[2018-02-02 12:17:12,668] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517573832</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hello]]></Content>
+        </xml>
+        
+[2018-02-02 12:17:13,063] [INFO] wechat_main
+[2018-02-02 12:17:13,064] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517573826</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[hello]]></Content>\n<MsgId>6517929952356086806</MsgId>\n</xml>'
+[2018-02-02 12:17:13,066] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517573833</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[hello]]></Content>
+        </xml>
+        
+[2018-02-02 12:17:15,912] [INFO] wechat_main
+[2018-02-02 12:17:15,914] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517573835</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[helloworld ]]></Content>\n<MsgId>6517929991010792476</MsgId>\n</xml>'
+[2018-02-02 12:17:15,916] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517573835</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[helloworld ]]></Content>
+        </xml>
+        
+[2018-02-02 12:17:20,461] [INFO] wechat_main
+[2018-02-02 12:17:20,463] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517573840</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[gfygfgu]]></Content>\n<MsgId>6517930012485628960</MsgId>\n</xml>'
+[2018-02-02 12:17:20,465] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517573840</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[gfygfgu]]></Content>
+        </xml>
+        
+[2018-02-02 12:17:25,894] [INFO] wechat_main
+[2018-02-02 12:17:25,900] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517573845</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517930033960465444</MsgId>\n</xml>'
+[2018-02-02 12:17:25,904] [INFO] ['20', '19']
+[2018-02-02 12:17:25,906] [INFO] 20
+[2018-02-02 12:17:25,907] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517573845</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-02 12:17:29,616] [INFO] wechat_main
+[2018-02-02 12:17:29,618] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517573849</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517930051140334631</MsgId>\n</xml>'
+[2018-02-02 12:17:29,622] [INFO] ['20', '19']
+[2018-02-02 12:17:29,624] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517573849</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[19]]></Content>
+        </xml>
+        
+[2018-02-02 14:42:14,692] [INFO] wechat_main
+[2018-02-02 14:42:14,694] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517582529</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517967331456465607</MsgId>\n</xml>'
+[2018-02-02 14:42:14,699] [INFO] ['21', '18']
+[2018-02-02 14:42:14,701] [INFO] 21
+[2018-02-02 14:42:14,703] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517582534</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[21]]></Content>
+        </xml>
+        
+[2018-02-02 14:42:14,805] [INFO] wechat_main
+[2018-02-02 14:42:14,806] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517582529</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517967331456465607</MsgId>\n</xml>'
+[2018-02-02 14:42:14,824] [INFO] ['21', '18']
+[2018-02-02 14:42:14,826] [INFO] 21
+[2018-02-02 14:42:14,827] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517582534</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[21]]></Content>
+        </xml>
+        
+[2018-02-02 14:42:19,679] [INFO] wechat_main
+[2018-02-02 14:42:19,681] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517582539</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517967374406138569</MsgId>\n</xml>'
+[2018-02-02 14:42:19,685] [INFO] ['21', '18']
+[2018-02-02 14:42:19,687] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517582539</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-02 14:42:24,212] [INFO] wechat_main
+[2018-02-02 14:42:24,213] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517582544</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe9\xab\x98]]></Content>\n<MsgId>6517967395880975052</MsgId>\n</xml>'
+[2018-02-02 15:27:38,221] [INFO] wechat_main
+[2018-02-02 15:27:38,221] [INFO] wechat_main
+[2018-02-02 15:27:38,223] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517585248</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517979009472543728</MsgId>\n</xml>'
+[2018-02-02 15:27:38,223] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517585248</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517979009472543728</MsgId>\n</xml>'
+[2018-02-02 15:27:38,236] [INFO] ['21', '18']
+[2018-02-02 15:27:38,236] [INFO] ['21', '18']
+[2018-02-02 15:27:38,237] [INFO] 21
+[2018-02-02 15:27:38,237] [INFO] 21
+[2018-02-02 15:27:38,238] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517585258</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[21]]></Content>
+        </xml>
+        
+[2018-02-02 15:27:38,238] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517585258</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[21]]></Content>
+        </xml>
+        
+[2018-02-02 15:27:43,964] [INFO] wechat_main
+[2018-02-02 15:27:43,966] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517585263</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517979073897053173</MsgId>\n</xml>'
+[2018-02-02 15:27:43,977] [INFO] ['21', '18']
+[2018-02-02 15:27:43,979] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517585263</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-02 15:46:18,693] [INFO] wechat_main
+[2018-02-02 15:46:18,695] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517586377</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6517983858490621048</MsgId>\n</xml>'
+[2018-02-02 15:46:18,700] [INFO] ['20', '19']
+[2018-02-02 15:46:18,701] [INFO] 20
+[2018-02-02 15:46:18,702] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517586378</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-02 15:46:24,498] [INFO] wechat_main
+[2018-02-02 15:46:24,500] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517586384</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6517983888555392123</MsgId>\n</xml>'
+[2018-02-02 15:46:24,504] [INFO] ['20', '19']
+[2018-02-02 15:46:24,506] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517586384</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[19]]></Content>
+        </xml>
+        
+[2018-02-03 00:43:52,318] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-02-03 00:43:59,657] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-02-03 00:48:49,470] [ERROR] Internal Server Error: /getdata
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'type'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/github/RaspberryPi/Django/THServer/THServer/data.py", line 14, in sendData
+    dataType=request.GET['type']
+  File "/usr/local/lib/python3.5/dist-packages/Django-2.0.1-py3.5.egg/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'type'
+[2018-02-03 00:49:16,444] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-02-03 00:49:41,608] [INFO] DataTime:2018-02-03 08:48:48T:20H:21
+[2018-02-03 00:49:48,084] [INFO] wechat_main
+[2018-02-03 00:50:25,129] [INFO] wechat_main
+[2018-02-03 00:50:25,136] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517619022</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518124067698000285</MsgId>\n</xml>'
+[2018-02-03 00:50:25,156] [INFO] ['20', '21']
+[2018-02-03 00:50:25,157] [INFO] 20
+[2018-02-03 00:50:25,158] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517619025</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-03 00:56:47,801] [INFO] DataTime:2018-02-03 08:56:16T:20H:21
+[2018-02-03 01:02:00,174] [INFO] wechat_main
+[2018-02-03 01:02:04,930] [INFO] wechat_main
+[2018-02-03 01:02:06,062] [INFO] wechat_main
+[2018-02-03 01:08:40,862] [INFO] DataTime:2018-02-03 09:04:48T:20H:21
+[2018-02-03 01:10:46,878] [INFO] DataTime:2018-02-03 09:09:48T:20H:20
+[2018-02-03 01:10:50,221] [WARNING] Not Found: /favicon.ico
+[2018-02-03 01:11:28,515] [INFO] wechat_main
+[2018-02-03 01:11:28,517] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517620287</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518129500831629894</MsgId>\n</xml>'
+[2018-02-03 01:11:28,537] [INFO] ['20', '20']
+[2018-02-03 01:11:28,539] [INFO] 20
+[2018-02-03 01:11:28,540] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517620288</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-03 01:11:48,535] [INFO] wechat_main
+[2018-02-03 01:11:48,537] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517620307</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518129586730975818</MsgId>\n</xml>'
+[2018-02-03 01:11:48,542] [INFO] ['20', '20']
+[2018-02-03 01:11:48,543] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517620308</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-03 01:38:33,164] [INFO] wechat_main
+[2018-02-03 01:38:33,166] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517621912</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518136480153486227</MsgId>\n</xml>'
+[2018-02-03 01:38:33,171] [INFO] ['20', '19']
+[2018-02-03 01:38:33,173] [INFO] 20
+[2018-02-03 01:38:33,174] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517621913</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-03 01:38:37,509] [INFO] wechat_main
+[2018-02-03 01:38:37,511] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517621916</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518136497333355414</MsgId>\n</xml>'
+[2018-02-03 01:38:37,516] [INFO] ['20', '19']
+[2018-02-03 01:38:37,518] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517621917</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[19]]></Content>
+        </xml>
+        
+[2018-02-03 01:38:57,546] [WARNING] Not Found: /
+[2018-02-03 02:02:35,624] [WARNING] Not Found: /
+[2018-02-03 03:39:23,295] [INFO] wechat_main
+[2018-02-03 03:39:23,297] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517629162</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518167618666383888</MsgId>\n</xml>'
+[2018-02-03 03:39:23,302] [INFO] ['20', '19']
+[2018-02-03 03:39:23,303] [INFO] 20
+[2018-02-03 03:39:23,304] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517629163</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-03 04:23:14,361] [INFO] DataTime:2018-02-03 12:22:55T:21H:18
+[2018-02-03 04:23:15,193] [INFO] DataTime:2018-02-03 12:22:55T:21H:18
+[2018-02-03 04:42:23,896] [WARNING] Not Found: /
+[2018-02-03 05:08:16,849] [INFO] wechat_main
+[2018-02-03 05:08:16,851] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517634496</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518190528021941864</MsgId>\n</xml>'
+[2018-02-03 05:08:16,855] [INFO] ['20', '18']
+[2018-02-03 05:08:16,857] [INFO] 20
+[2018-02-03 05:08:16,858] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517634496</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-03 05:08:24,211] [INFO] wechat_main
+[2018-02-03 05:08:24,212] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517634503</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518190558086712939</MsgId>\n</xml>'
+[2018-02-03 05:08:24,216] [INFO] ['20', '18']
+[2018-02-03 05:08:24,218] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517634504</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-03 13:47:44,346] [INFO] DataTime:2018-02-03 21:47:19T:20H:18
+[2018-02-03 14:20:35,049] [INFO] DataTime:2018-02-03 22:20:23T:20H:18
+[2018-02-03 14:20:36,519] [INFO] DataTime:2018-02-03 22:20:23T:20H:18
+[2018-02-03 14:20:37,065] [INFO] DataTime:2018-02-03 22:20:23T:20H:18
+[2018-02-03 14:20:37,072] [INFO] DataTime:2018-02-03 22:20:23T:20H:18
+[2018-02-03 14:20:37,082] [INFO] DataTime:2018-02-03 22:20:23T:20H:18
+[2018-02-03 14:20:37,088] [INFO] DataTime:2018-02-03 22:20:23T:20H:18
+[2018-02-03 14:20:41,036] [INFO] wechat_main
+[2018-02-03 14:20:41,038] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517667640</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[ \xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518332880418006920</MsgId>\n</xml>'
+[2018-02-03 14:21:08,505] [INFO] wechat_main
+[2018-02-03 14:21:08,507] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517667667</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518332996382123914</MsgId>\n</xml>'
+[2018-02-03 14:21:08,513] [INFO] ['20', '18']
+[2018-02-03 14:21:08,514] [INFO] 20
+[2018-02-03 14:21:08,515] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517667668</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-03 14:21:29,472] [INFO] wechat_main
+[2018-02-03 14:21:29,473] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517667688</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518333086576437136</MsgId>\n</xml>'
+[2018-02-03 14:21:29,477] [INFO] ['20', '18']
+[2018-02-03 14:21:29,479] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517667689</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-03 15:01:53,143] [INFO] DataTime:2018-02-03 23:00:55T:20H:17
+[2018-02-03 15:01:57,873] [INFO] DataTime:2018-02-03 23:00:55T:20H:17
+[2018-02-03 15:01:58,504] [INFO] DataTime:2018-02-03 23:00:55T:20H:17
+[2018-02-03 15:01:59,024] [INFO] DataTime:2018-02-03 23:00:55T:20H:17
+[2018-02-03 15:01:59,621] [INFO] DataTime:2018-02-03 23:01:59T:20H:18
+[2018-02-03 15:02:00,228] [INFO] DataTime:2018-02-03 23:01:59T:20H:18
+[2018-02-03 15:02:00,820] [INFO] DataTime:2018-02-03 23:01:59T:20H:18
+[2018-02-03 15:02:01,453] [INFO] DataTime:2018-02-03 23:01:59T:20H:18
+[2018-02-03 15:02:02,026] [INFO] DataTime:2018-02-03 23:01:59T:20H:18
+[2018-02-03 15:02:02,578] [INFO] DataTime:2018-02-03 23:01:59T:20H:18
+[2018-02-03 15:02:03,203] [INFO] DataTime:2018-02-03 23:01:59T:20H:18
+[2018-02-03 15:02:03,745] [INFO] DataTime:2018-02-03 23:01:59T:20H:18
+[2018-02-03 16:32:00,289] [INFO] DataTime:2018-02-04 00:31:35T:20H:18
+[2018-02-03 16:32:01,030] [WARNING] Not Found: /favicon.ico
+[2018-02-03 23:14:16,748] [INFO] wechat_main
+[2018-02-03 23:14:16,751] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517699652</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518470370911087873</MsgId>\n</xml>'
+[2018-02-03 23:14:16,763] [INFO] ['19', '18']
+[2018-02-03 23:14:16,764] [INFO] 19
+[2018-02-03 23:14:16,765] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517699656</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[19]]></Content>
+        </xml>
+        
+[2018-02-03 23:14:23,487] [INFO] wechat_main
+[2018-02-03 23:14:23,488] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517699662</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518470413860760835</MsgId>\n</xml>'
+[2018-02-03 23:14:23,500] [INFO] ['19', '18']
+[2018-02-03 23:14:23,501] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517699663</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-03 23:40:33,414] [INFO] wechat_main
+[2018-02-03 23:40:33,418] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517701228</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518477139779546494</MsgId>\n</xml>'
+[2018-02-03 23:40:33,437] [INFO] ['19', '18']
+[2018-02-03 23:40:33,439] [INFO] 19
+[2018-02-03 23:40:33,440] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517701233</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[19]]></Content>
+        </xml>
+        
+[2018-02-03 23:40:40,626] [INFO] wechat_main
+[2018-02-03 23:40:40,627] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517701237</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518477178434252163</MsgId>\n</xml>'
+[2018-02-03 23:40:40,630] [INFO] ['19', '18']
+[2018-02-03 23:40:40,632] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517701240</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-04 14:46:04,621] [INFO] wechat_main
+[2018-02-04 14:46:04,624] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517755560</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518710493942684381</MsgId>\n</xml>'
+[2018-02-04 14:46:04,636] [INFO] ['24', '16']
+[2018-02-04 14:46:04,637] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517755564</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[16]]></Content>
+        </xml>
+        
+[2018-02-04 14:46:17,951] [INFO] wechat_main
+[2018-02-04 14:46:17,952] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517755577</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518710566957128417</MsgId>\n</xml>'
+[2018-02-04 14:46:17,961] [INFO] ['24', '16']
+[2018-02-04 14:46:17,962] [INFO] 24
+[2018-02-04 14:46:17,963] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517755577</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[24]]></Content>
+        </xml>
+        
+[2018-02-04 14:46:20,120] [INFO] wechat_main
+[2018-02-04 14:46:20,121] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517755576</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518710562662161120</MsgId>\n</xml>'
+[2018-02-04 14:46:20,128] [INFO] ['22', '17']
+[2018-02-04 14:46:20,129] [INFO] 22
+[2018-02-04 14:46:20,131] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517755580</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[22]]></Content>
+        </xml>
+        
+[2018-02-04 14:46:35,675] [INFO] wechat_main
+[2018-02-04 14:46:35,676] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517755591</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518710627086670564</MsgId>\n</xml>'
+[2018-02-04 14:46:35,681] [INFO] ['22', '17']
+[2018-02-04 14:46:35,683] [INFO] 22
+[2018-02-04 14:46:35,684] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517755595</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[22]]></Content>
+        </xml>
+        
+[2018-02-04 14:46:41,400] [INFO] wechat_main
+[2018-02-04 14:46:41,402] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></FromUserName>\n<CreateTime>1517755600</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518710665741376230</MsgId>\n</xml>'
+[2018-02-04 14:46:41,406] [INFO] ['22', '17']
+[2018-02-04 14:46:41,409] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1AQ7ZYEUDK0EJ6TY9YbENik]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517755601</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[17]]></Content>
+        </xml>
+        
+[2018-02-05 00:37:13,078] [INFO] wechat_main
+[2018-02-05 00:37:13,079] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517791030</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518862836432674716</MsgId>\n</xml>'
+[2018-02-05 00:37:13,082] [INFO] ['19', '18']
+[2018-02-05 00:37:13,083] [INFO] 19
+[2018-02-05 00:37:13,084] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517791033</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[19]]></Content>
+        </xml>
+        
+[2018-02-05 00:59:33,882] [INFO] wechat_main
+[2018-02-05 00:59:33,884] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517792370</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518868591688851502</MsgId>\n</xml>'
+[2018-02-05 00:59:33,887] [INFO] ['19', '18']
+[2018-02-05 00:59:33,888] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517792373</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-05 00:59:42,115] [INFO] wechat_main
+[2018-02-05 00:59:42,117] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517792381</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe5\xa5\xbd]]></Content>\n<MsgId>6518868638933491760</MsgId>\n</xml>'
+[2018-02-05 02:37:47,772] [INFO] DataTime:2018-02-05 10:25:07T:20H:18
+[2018-02-05 02:38:46,589] [INFO] wechat_main
+[2018-02-05 02:38:46,591] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517798325</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518894168219100011</MsgId>\n</xml>'
+[2018-02-05 02:38:46,593] [INFO] ['20', '18']
+[2018-02-05 02:38:46,594] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517798326</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-05 05:54:55,856] [INFO] wechat_main
+[2018-02-05 05:54:55,859] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517810091</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518944702804307253</MsgId>\n</xml>'
+[2018-02-05 05:54:55,871] [INFO] ['20', '18']
+[2018-02-05 05:54:55,872] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517810095</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-05 05:56:17,285] [INFO] wechat_main
+[2018-02-05 05:56:17,287] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></FromUserName>\n<CreateTime>1517810176</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb8\xa9\xe5\xba\xa6]]></Content>\n<MsgId>6518945067876527438</MsgId>\n</xml>'
+[2018-02-05 05:56:17,298] [INFO] ['20', '18']
+[2018-02-05 05:56:17,300] [INFO] 20
+[2018-02-05 05:56:17,300] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1PR-DsDyWYTJnhHZcv8tMuQ]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517810177</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[20]]></Content>
+        </xml>
+        
+[2018-02-05 08:57:59,947] [INFO] wechat_main
+[2018-02-05 08:57:59,962] [INFO] b'<xml><ToUserName><![CDATA[gh_11f8c0c30980]]></ToUserName>\n<FromUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></FromUserName>\n<CreateTime>1517821077</CreateTime>\n<MsgType><![CDATA[text]]></MsgType>\n<Content><![CDATA[\xe6\xb9\xbf\xe5\xba\xa6]]></Content>\n<MsgId>6518991887315024419</MsgId>\n</xml>'
+[2018-02-05 08:57:59,967] [INFO] ['20', '18']
+[2018-02-05 08:57:59,968] [INFO] 
+        <xml>
+        <ToUserName><![CDATA[otGlH1Cf6pWKEIIzac82UvL-3Jsc]]></ToUserName>
+        <FromUserName><![CDATA[gh_11f8c0c30980]]></FromUserName>
+        <CreateTime>1517821079</CreateTime>
+        <MsgType><![CDATA[text]]></MsgType>
+        <Content><![CDATA[18]]></Content>
+        </xml>
+        
+[2018-02-05 10:43:07,135] [INFO] DataTime:2018-02-05 18:42:28T:18H:22

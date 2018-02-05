@@ -1,0 +1,10 @@
+[Desktop Entry]
+name=Frp
+comment=Frp
+Exec=/home/pi/github/RaspberryPi/Frp/RaspberryPiFrp.sh
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=application;development;
+StartupNotify=true
+Name[en_GB]=Frp.desktop

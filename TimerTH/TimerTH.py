@@ -18,8 +18,10 @@ lastT=0
 lastH=0
 
 #文件设置
+startTime=datetime.datetime.now()
 
 while True:
+    
     for i in range(5):
         tm.show_clock()        
 
@@ -39,19 +41,15 @@ while True:
     tm.show_num(curH,'H')
     sleep(1)
 
-    #写数据库
-    conn=sqlite3.connect('/home/pi/github/RaspberryPi/Sqlite/test.db')
-    c=conn.cursor()
+    endTime=datetime.datetime.now()
+    if((endTime-startTime).total_seconds()>=60):
+        #写数据库
+        conn=sqlite3.connect('/home/pi/github/RaspberryPi/TimerTH/THDATA.db')
+        c=conn.cursor()
+        curTime=datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        print(curTime)
+        c.execute("INSERT INTO TH (TIME,T,H) VALUES ('"+curTime+"', '"+str(curT)+"', '"+str(curH)+"')")
+        conn.commit()
+        conn.close()
 
-    curTime=datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    print(curTime)
-
-    c.execute("INSERT INTO DATA (TIME,T,H) VALUES ('"+curTime+"', '"+str(curT)+"', '"+str(curH)+"')");
-
-    conn.commit()
-    conn.close()
-
-
-    
-
-
+        startTime=endTime

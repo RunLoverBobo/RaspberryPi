@@ -11,6 +11,9 @@ https://docs.djangoproject.com/en/2.0/ref/settings/
 """
 
 import os
+import logging
+import django.utils.log
+import logging.handlers
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -25,7 +28,7 @@ SECRET_KEY = '04e7s26$s455@!n&#w8+zv$zk&&lzj!0+h4a5*mbgsq$o^a-qx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bobo.ngrok.xiaomiqiu.cn']
+ALLOWED_HOSTS = ['bobo.ngrok.xiaomiqiu.cn','bobo.frp2.chuantou.org']
 
 
 # Application definition
@@ -54,7 +57,7 @@ ROOT_URLCONF = 'THServer.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -118,3 +121,39 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+LOGGING = {
+'version': 1,
+'disable_existing_loggers': False,
+'formatters': {
+    'verbose': {
+        'format': '[%(asctime)s] [%(levelname)s] %(message)s'
+    },
+},
+'handlers': {
+    'console':{
+        'level':'INFO',
+        'class':'logging.StreamHandler',
+        'formatter': 'verbose'
+    },
+    'file': {
+        'level': 'INFO',
+        'class': 'logging.FileHandler',
+        'filename': '/home/pi/github/RaspberryPi/Django/THServer/THServer/log.txt',
+        'formatter': 'verbose'
+    },
+    'email': {
+        'level': 'ERROR',
+        'class': 'django.utils.log.AdminEmailHandler',
+        'include_html' : True,
+    }
+},
+'loggers': {
+    'django': {
+        'handlers': ['console', 'file', 'email'],
+        'level': 'INFO',
+        'propagate': True,
+    },
+},
+}
