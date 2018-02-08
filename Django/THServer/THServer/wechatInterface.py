@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #-*- coding:utf-8 -*-
 
 from django.views.decorators.csrf import csrf_exempt
@@ -7,13 +8,15 @@ import logging
 from lxml import etree
 from django.utils.encoding import smart_str
 import sqlite3
+import RPi.GPIO as gpio
+
+#from wiringpi import wiringPiSetupGpio, pinMode, digitalWrite, GPIO
 
 logger = logging.getLogger('django')
 
 
 @csrf_exempt
 def wechat_main(request):
-    logger.info('wechat_main')
 
     if request.method == "GET":
         #接收微信服务器get请求发过来的参数
@@ -50,10 +53,37 @@ def wechat_main(request):
 
         if(content=='湿度'):
             content=Data().getH()
+
+        if(content=='开加湿'):
+            Humidifier().open()
+            content='加湿器已打开'
+
+        if(content=='关加湿'):
+            Humidifier().close()
+            content='加湿器已关闭'
           
         
         replyMsg=TextMsg(toUser,fromUser,content,createTime)
         return HttpResponse(replyMsg.send())
+    
+import RPi.GPIO as GPIO
+
+class Humidifier(object):
+    def __init__(self):
+        GPIO.setwarnings(False)
+        GPIO.setmode(GPIO.BOARD)
+        GPIO.setup(12,GPIO.OUT)
+
+        logger.info('Humidifier_init')
+        
+    def open(self):
+        #digitalWrite(self.controlPort,GPIO.LOW)
+        GPIO.output(12,GPIO.LOW)
+
+    def close(self):
+        #digitalWrite(self.controlPort,GPIO.HIGH)
+        GPIO.output(12,GPIO.HIGH)
+  
 
 import time
 class TextMsg(object):
@@ -63,8 +93,6 @@ class TextMsg(object):
         self.__dict['FromUserName']=toUserName
         self.__dict['CreateTime']=int(time.time())
         self.__dict['Content']=content
-        #self.__dict['CreateTime']=createTime
-        
 
     def send(self):
         XmlForm="""
