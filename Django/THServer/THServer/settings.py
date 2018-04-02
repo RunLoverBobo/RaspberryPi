@@ -28,7 +28,7 @@ SECRET_KEY = '04e7s26$s455@!n&#w8+zv$zk&&lzj!0+h4a5*mbgsq$o^a-qx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bobo.ngrok.xiaomiqiu.cn','bobo.frp2.chuantou.org']
+ALLOWED_HOSTS = ['bobo.ngrok.xiaomiqiu.cn','bobo.frp2.chuantou.org','zhhe6j.natappfree.cc']
 
 
 # Application definition
@@ -142,6 +142,7 @@ LOGGING = {
         'level': 'INFO',
         'class': 'logging.FileHandler',
         'filename': '/home/pi/github/RaspberryPi/Django/THServer/THServer/log.txt',
+        'encoding': 'utf8',
         'formatter': 'verbose'
     },
     'email': {

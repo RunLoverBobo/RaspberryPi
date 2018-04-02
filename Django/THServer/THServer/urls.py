@@ -16,11 +16,11 @@ Including another URLconf
 
 
 from django.conf.urls import url
-from . import data
+
 from . import wechatInterface
 
 
 urlpatterns = [
-    url(r'^getdata$',data.sendData),
+
     url(r'^wechat$',wechatInterface.wechat_main),
 ]
