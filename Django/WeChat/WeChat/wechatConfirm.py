@@ -6,12 +6,12 @@
 """
 import hashlib
 
-def confirm(request):
+def confirmWechat(request):
     """
     接收微信服务器get请求发过来的参数
     处理后返回验证字符串
     """
-    
+        
     signature = request.GET.get('signature',None)
     timestamp = request.GET.get('timestamp',None)
     nonce = request.GET.get('nonce',None)

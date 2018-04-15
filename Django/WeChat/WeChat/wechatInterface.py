@@ -6,9 +6,10 @@ RaspberryPi与微信的接口程序
 """
 #路径设置
 import sys
-sys.path.append("/home/pi/github/RaspberryPi/Django/THServer/THServer")
+sys.path.append("/home/pi/github/RaspberryPi/Django/WeChat/WeChat")
 from django.views.decorators.csrf import csrf_exempt
 #微信验证模块
+
 import wechatConfirm
 from msg import Msg
 from msgProcesser import MsgProcesser
@@ -20,19 +21,18 @@ import logging
 from lxml import etree
 from msg import Msg
 
-#import sqlite3
-
 import Humidifier 
 
 
 logger = logging.getLogger('django')
 
+import hashlib
 
 @csrf_exempt
 def wechat_main(request):
     #与微信服务器验证
-    if request.method == "GET":
-        confirmResult=confirm(request)        
+    if request.method == "GET":        
+        confirmResult=confirmWechat(request)        
         return HttpResponse(confirmResult)
      
     #响应用户消息
@@ -50,5 +50,8 @@ def wechat_main(request):
         #返回指令执行结果（表现层）
         replyResult=msgProcesser.genMsg(replyMsg)        
         return HttpResponse(replyResult)
+
+
+
         
 

@@ -1,0 +1,2 @@
+1.微信控制gpio,需要将apache www-data加入gpio组
+sudo adduser www-data gpio
