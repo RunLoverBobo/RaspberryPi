@@ -1,6 +1,15 @@
-[2018-04-15 13:06:58,059] [INFO] hello
-[2018-04-15 13:07:57,996] [INFO] wechatConfirm
-[2018-04-15 13:07:58,000] [ERROR] Internal Server Error: /wechat
+[2018-04-16 03:58:17,924] [INFO] 温度
+[2018-04-16 03:58:28,048] [INFO] 湿度
+[2018-04-16 08:45:27,325] [INFO] 温度
+[2018-04-19 04:56:52,990] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-04-19 04:57:00,073] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-04-19 04:57:59,837] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-04-19 04:58:02,128] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-04-19 04:59:29,247] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-04-19 04:59:35,316] [ERROR] Invalid HTTP_HOST header: 'bobo.frp2.chuantou.org'. You may need to add 'bobo.frp2.chuantou.org' to ALLOWED_HOSTS.
+[2018-04-19 05:00:37,624] [WARNING] Not Found: /
+[2018-04-19 05:00:55,210] [WARNING] Not Found: /
+[2018-04-19 05:02:38,958] [ERROR] Internal Server Error: /wechat
 Traceback (most recent call last):
   File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
     response = get_response(request)
@@ -10,60 +19,379 @@ Traceback (most recent call last):
     response = wrapped_callback(request, *callback_args, **callback_kwargs)
   File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
     return view_func(*args, **kwargs)
-  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 38, in wechat_main
-    confirmResult=wechatConfirm(request)
-  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 73, in wechatConfirm
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:02:46,016] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:03:32,352] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:03:43,218] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:03:52,163] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:03:58,102] [WARNING] Not Found: /
+[2018-04-19 05:04:11,124] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:05:50,113] [WARNING] Not Found: /
+[2018-04-19 05:08:00,597] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:08:10,694] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:08:23,574] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:08:48,728] [WARNING] Not Found: /
+[2018-04-19 05:08:50,006] [WARNING] Not Found: /favicon.ico
+[2018-04-19 05:09:00,088] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:09:16,333] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:09:34,005] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:09:42,912] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:10:33,285] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:11:19,068] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:12:27,844] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:13:39,163] [WARNING] Not Found: /
+[2018-04-19 05:19:27,210] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 05:24:28,164] [WARNING] Not Found: /
+[2018-04-19 05:38:00,914] [WARNING] Not Found: /
+[2018-04-19 07:19:50,467] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:20:03,115] [WARNING] Not Found: /
+[2018-04-19 07:20:11,028] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:20:36,714] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:20:49,547] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:31:34,842] [WARNING] Not Found: /
+[2018-04-19 07:31:48,480] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:31:56,254] [WARNING] Not Found: /
+[2018-04-19 07:32:04,046] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:32:16,630] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:32:35,799] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:32:43,524] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+NameError: name 'confirmWechat' is not defined
+[2018-04-19 07:32:56,081] [WARNING] Not Found: /
+[2018-04-19 07:35:27,987] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 70, in confirmWechat
     hashlist.sort()
 TypeError: unorderable types: NoneType() < str()
-[2018-04-15 13:08:14,303] [INFO] wechatConfirm
-[2018-04-15 13:10:54,587] [INFO] hello
-[2018-04-15 13:11:12,461] [INFO] 1
-[2018-04-15 13:11:12,463] [ERROR] Internal Server Error: /wechat
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
-    response = self.process_exception_by_middleware(e, request)
-  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
-    return view_func(*args, **kwargs)
-  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 51, in wechat_main
-    orderProcesser=OrderProcesser()
-  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/orderProcesser.py", line 28, in processOrder
-    humidifier=Humidifier.Humidifier()
-  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/Humidifier.py", line 15, in __init__
-    GPIO.setup(12,GPIO.OUT)
-RuntimeError: No access to /dev/mem.  Try running as root!
-[2018-04-15 13:42:33,293] [INFO] 1
-[2018-04-15 13:42:33,295] [ERROR] Internal Server Error: /wechat
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
-    response = self.process_exception_by_middleware(e, request)
-  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
-    return view_func(*args, **kwargs)
-  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 51, in wechat_main
-    replyResult=msgProcesser.genMsg(replyMsg)
-  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/orderProcesser.py", line 28, in processOrder
-    humidifier=Humidifier.Humidifier()
-  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/Humidifier.py", line 15, in __init__
-    GPIO.setup(12,GPIO.OUT)
-RuntimeError: No access to /dev/mem.  Try running as root!
-[2018-04-15 13:42:49,294] [INFO] 1
-[2018-04-15 13:43:26,438] [INFO] 开加湿
-[2018-04-15 13:43:34,078] [INFO] 关加湿
-[2018-04-15 13:43:38,193] [INFO] 温度
-[2018-04-15 13:43:42,656] [INFO] 湿度
-[2018-04-15 13:44:08,027] [INFO] 温度
-[2018-04-15 13:51:55,449] [INFO] 开加湿
-[2018-04-15 13:52:00,389] [INFO] 关加湿
-[2018-04-15 13:52:04,788] [INFO] 温度
-[2018-04-15 13:52:08,852] [INFO] 湿度
-[2018-04-15 13:54:39,243] [INFO] 温度
-[2018-04-15 13:54:43,175] [INFO] 温度
-[2018-04-15 13:54:55,703] [INFO] 湿度
-[2018-04-15 13:55:02,760] [INFO] 关加湿
+[2018-04-19 07:36:06,833] [INFO] 1
+[2018-04-19 07:36:19,715] [INFO] 温度
+[2018-04-19 07:36:28,347] [INFO] 湿度
+[2018-04-19 13:03:20,810] [INFO] 湿度
+[2018-04-20 02:02:01,925] [INFO] 湿度
+[2018-04-20 02:02:11,968] [INFO] 温度
+[2018-04-20 02:03:04,941] [INFO] 开加湿
+[2018-04-21 03:32:58,054] [INFO] 关加湿
+[2018-04-22 01:02:48,967] [INFO] 温度
+[2018-04-23 07:18:26,787] [INFO] 湿度
+[2018-04-24 04:20:26,913] [INFO] 湿度
+[2018-04-24 04:20:43,564] [INFO] 湿度
+[2018-04-24 04:20:50,953] [INFO] 湿度
+[2018-04-24 04:21:10,308] [INFO] 湿度
+[2018-04-24 23:40:33,350] [INFO] 湿度
+[2018-04-25 15:22:47,482] [INFO] 温度
+[2018-04-25 15:22:56,449] [INFO] 温度
+[2018-04-25 15:23:02,083] [INFO] 湿度
+[2018-04-25 15:23:08,292] [INFO] 开加湿
+[2018-04-25 15:23:18,046] [INFO] 关加湿
+[2018-04-27 01:05:21,904] [INFO] 温度
+[2018-04-27 01:05:21,905] [INFO] 温度

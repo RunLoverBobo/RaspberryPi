@@ -2,14 +2,14 @@
 #encoding:utf-8
 
 #import RPi.GPIO as gpio
-from wiringpi import wiringPiSetupGpio, pinMode, digitalRead, digitalWrite, GPIO
+from wiringpi import wiringPiSetupGpio,wiringPiSetup, pinMode, digitalRead, digitalWrite, GPIO
 
 from time import time,sleep
 
 
 class DhtTem:
     PORT=4
-    wiringPiSetupGpio()
+    wiringPiSetupGpio()    
 
     def getTem(self,numType):
         data=[]
@@ -71,7 +71,7 @@ class DhtTem:
 
         tmp=humidity+humidity_point+temperature+temperature_point
 
-        
+
         if check==tmp:
             if numType=='T':
                 return temperature
@@ -79,6 +79,8 @@ class DhtTem:
                 return humidity
         else:
             return 'e'
+
+
         
 
         
