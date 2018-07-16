@@ -25,7 +25,7 @@ SECRET_KEY = '-1f9&_66-d*b=$dnpr7(ek%hh=p$9ap34ibz1=5p)82tq14bu='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bobo.frp3.chuantou.org','bobo.frp2.chuantou.org']
+ALLOWED_HOSTS = ['bobo.frp3.chuantou.org','bobo.frp2.chuantou.org','127.0.0.1']
 
 
 # Application definition

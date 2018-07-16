@@ -395,3 +395,185 @@ TypeError: unorderable types: NoneType() < str()
 [2018-04-25 15:23:18,046] [INFO] 关加湿
 [2018-04-27 01:05:21,904] [INFO] 温度
 [2018-04-27 01:05:21,905] [INFO] 温度
+[2018-05-03 14:44:54,752] [INFO] 温度
+[2018-05-03 14:44:58,738] [INFO] 温度
+[2018-05-03 14:45:08,199] [INFO] 关加湿
+[2018-05-04 01:59:04,306] [INFO] 温度
+[2018-05-04 01:59:10,404] [INFO] 湿度
+[2018-05-06 14:53:13,336] [INFO] 温度
+[2018-05-06 14:55:28,170] [ERROR] Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2018-05-06 14:55:35,263] [ERROR] Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2018-05-06 14:55:46,768] [ERROR] Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2018-05-06 14:55:47,338] [ERROR] Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2018-05-06 14:55:48,749] [ERROR] Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2018-05-06 14:55:50,983] [ERROR] Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2018-05-06 15:01:30,835] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 70, in confirmWechat
+    hashlist.sort()
+TypeError: unorderable types: NoneType() < str()
+[2018-05-06 15:10:14,551] [INFO] 关加湿
+[2018-05-06 15:13:31,866] [ERROR] Invalid HTTP_HOST header: 'bobo.ngrok.xiaomiqiu.cn'. You may need to add 'bobo.ngrok.xiaomiqiu.cn' to ALLOWED_HOSTS.
+[2018-05-06 15:13:35,112] [ERROR] Invalid HTTP_HOST header: 'bobo.ngrok.xiaomiqiu.cn'. You may need to add 'bobo.ngrok.xiaomiqiu.cn' to ALLOWED_HOSTS.
+[2018-05-06 15:35:34,244] [ERROR] Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2018-05-06 15:35:41,140] [ERROR] Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2018-05-06 15:36:58,537] [WARNING] Not Found: /
+[2018-05-06 15:36:58,936] [WARNING] Not Found: /favicon.ico
+[2018-05-06 15:37:03,264] [WARNING] Not Found: /
+[2018-05-06 15:37:08,614] [WARNING] Not Found: /favicon.ico
+[2018-05-06 15:38:28,237] [WARNING] Not Found: /
+[2018-05-06 15:38:47,955] [WARNING] Not Found: /
+[2018-05-06 15:38:48,801] [WARNING] Not Found: /favicon.ico
+[2018-05-06 15:39:05,178] [INFO] 1
+[2018-05-06 15:39:05,321] [INFO] 1
+[2018-05-06 15:39:05,431] [INFO] 1
+[2018-05-06 15:39:09,355] [WARNING] Not Found: /
+[2018-05-06 15:39:10,327] [WARNING] Not Found: /favicon.ico
+[2018-05-06 15:39:49,880] [INFO] 1
+[2018-05-06 15:39:54,937] [INFO] 1
+[2018-05-06 15:39:54,936] [INFO] 温度
+[2018-05-06 15:40:01,298] [INFO] 温度
+[2018-05-06 15:40:01,452] [INFO] 湿度
+[2018-05-06 15:40:15,297] [INFO] 湿度
+[2018-05-06 15:40:15,321] [INFO] 湿度
+[2018-05-06 15:41:59,192] [WARNING] Not Found: /
+[2018-05-06 15:42:07,504] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 70, in confirmWechat
+    hashlist.sort()
+TypeError: unorderable types: NoneType() < str()
+[2018-05-06 15:43:04,139] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 35, in wechat_main
+    confirmResult=confirmWechat(request)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 70, in confirmWechat
+    hashlist.sort()
+TypeError: unorderable types: NoneType() < str()
+[2018-05-06 15:48:51,794] [WARNING] Not Found: /
+[2018-05-06 15:48:56,496] [WARNING] Not Found: /favicon.ico
+[2018-05-06 15:50:17,988] [WARNING] Not Found: /
+[2018-05-06 15:57:08,924] [WARNING] Not Found: /
+[2018-05-06 15:58:40,148] [WARNING] Not Found: /
+[2018-05-06 15:59:03,784] [WARNING] Not Found: /
+[2018-05-06 16:00:11,423] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 47, in wechat_main
+    hashlist.sort()
+TypeError: unorderable types: NoneType() < str()
+[2018-05-06 16:04:43,902] [WARNING] Not Found: /
+[2018-05-06 16:05:10,354] [WARNING] Not Found: /
+[2018-05-06 16:05:35,685] [INFO] 温度
+[2018-05-06 16:05:40,845] [INFO] 湿度
+[2018-05-06 16:05:48,103] [INFO] 关加湿
+[2018-05-07 06:33:03,284] [INFO] 温度
+[2018-05-07 06:33:07,451] [INFO] 温度
+[2018-05-07 06:33:18,699] [INFO] 开加湿
+[2018-05-07 06:33:27,329] [INFO] 关加湿
+[2018-05-07 06:33:33,666] [INFO] 开加湿
+[2018-05-07 06:33:40,394] [INFO] 关加湿
+[2018-05-07 08:48:22,219] [INFO] 温度
+[2018-05-07 08:48:27,041] [INFO] 湿度
+[2018-05-07 11:32:38,786] [INFO] 温度
+[2018-05-07 11:32:42,957] [INFO] 温度
+[2018-05-07 11:32:48,584] [INFO] 湿度
+[2018-05-07 11:32:56,563] [INFO] 开加湿
+[2018-05-07 11:33:02,080] [INFO] 关加湿
+[2018-05-07 11:33:06,259] [INFO] 温度
+[2018-05-07 11:33:10,469] [INFO] 湿度
+[2018-05-07 14:08:04,990] [INFO] 湿度
+[2018-05-08 00:09:59,857] [INFO] 湿度
+[2018-05-08 00:10:25,004] [INFO] 温度
+[2018-05-08 06:38:16,404] [INFO] 湿度
+[2018-05-08 06:38:16,683] [INFO] 湿度
+[2018-05-08 07:36:29,613] [INFO] 湿度
+[2018-05-08 07:36:41,265] [INFO] 好
+[2018-05-08 07:36:50,034] [INFO] 温度
+[2018-05-08 07:36:55,019] [INFO] 湿度
+[2018-05-09 02:30:43,143] [INFO] 湿度
+[2018-05-09 02:34:19,398] [INFO] 温度
+[2018-05-11 01:36:04,363] [INFO] 温度
+[2018-05-11 01:36:13,684] [INFO] 湿度
+[2018-05-11 08:57:50,033] [INFO] 开加湿
+[2018-05-19 12:54:15,430] [INFO] 温度
+[2018-05-19 12:54:18,031] [INFO] 温度
+[2018-05-19 12:54:24,551] [INFO] 湿度
+[2018-06-16 01:05:00,738] [INFO] 湿度
+[2018-06-16 01:05:03,294] [INFO] 湿度
+[2018-06-16 01:05:11,389] [INFO] 温度
+[2018-06-16 01:06:40,077] [INFO] 开加湿
+[2018-06-16 01:06:44,941] [INFO] 关加湿
+[2018-06-24 15:25:36,624] [INFO] 温度
+[2018-06-24 15:25:46,668] [INFO] 湿度
+[2018-06-25 01:21:21,827] [INFO] 温度
+[2018-06-25 01:21:33,872] [INFO] 湿度
+[2018-06-28 11:35:02,418] [INFO] 温度
+[2018-06-28 11:35:12,041] [INFO] 湿度
+[2018-07-01 01:35:08,497] [INFO] 温度
+[2018-07-01 01:35:13,775] [INFO] 湿度
+[2018-07-06 04:40:57,884] [INFO] 温度
+[2018-07-06 04:40:57,885] [INFO] 温度
+[2018-07-06 04:40:58,234] [INFO] 温度
+[2018-07-06 04:41:58,829] [INFO] 湿度
+[2018-07-06 04:41:58,858] [INFO] 湿度
+[2018-07-06 04:41:58,997] [INFO] 湿度
+[2018-07-12 12:40:41,710] [ERROR] Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/wechatInterface.py", line 62, in wechat_main
+    msg=msgProcesser.parseUserOrder(xmlStr)
+  File "/home/pi/github/RaspberryPi/Django/WeChat/WeChat/msgProcesser.py", line 24, in parseUserOrder
+    xml=etree.fromstring(xmlStr)
+  File "src/lxml/etree.pyx", line 3213, in lxml.etree.fromstring
+  File "src/lxml/parser.pxi", line 1876, in lxml.etree._parseMemoryDocument
+  File "src/lxml/parser.pxi", line 1764, in lxml.etree._parseDoc
+  File "src/lxml/parser.pxi", line 1126, in lxml.etree._BaseParser._parseDoc
+  File "src/lxml/parser.pxi", line 600, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 710, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 639, in lxml.etree._raiseParseError
+  File "<string>", line 6
+lxml.etree.XMLSyntaxError: Failure to process entity h, line 6, column 39
+[2018-07-15 02:34:13,929] [INFO] 温度
+[2018-07-15 02:34:22,741] [INFO] 湿度

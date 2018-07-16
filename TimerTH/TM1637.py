@@ -127,16 +127,18 @@ class TM1637:
         sleep(.5)
         self.set_segments([d0, d1, d2, d3])
 
-    def show_num(self,num,numType):
+    def show_num(self,numStr,numType):
         #湿度数据，第一位显示H，温度数据，第一位显示T
         if numType=='H':
             d0=0b1110110
         else:
             d0=0b0110001
         d1=0b0000000
-        d2=self.digit_to_segment[num//10]
-        d3=self.digit_to_segment[num%10]
-        self.set_segments([d0, d1, d2, d3])
+        num=int(numStr)
+        if(num>0 and num<100):
+            d2=self.digit_to_segment[num//10]
+            d3=self.digit_to_segment[num%10]
+            self.set_segments([d0, d1, d2, d3])
 
     def show_digit(self,num):
         d0=self.digit_to_segment[num//1000]
